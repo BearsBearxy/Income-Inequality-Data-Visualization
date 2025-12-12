@@ -1,0 +1,1951 @@
+﻿occupation,degree,sex,estimate count,count moe,median
+Accountants and auditors,less_bachelor,men,26540.0,2735.0,55560.0
+Accountants and auditors,less_bachelor,women,107500.0,6275.0,54930.0
+Accountants and auditors,bachelor,men,328300.0,8975.0,91190.0
+Accountants and auditors,bachelor,women,459400.0,11620.0,75800.0
+Accountants and auditors,bachelor_plus,men,510900.0,12340.0,96360.0
+Accountants and auditors,bachelor_plus,women,678500.0,14430.0,80200.0
+Accountants and auditors,graduate,men,182600.0,6720.0,104100.0
+Accountants and auditors,graduate,women,219100.0,8940.0,89660.0
+Actuaries,bachelor,men,17780.0,2260.0,130800.0
+Actuaries,bachelor,women,7165.0,1330.0,131000.0
+Actuaries,bachelor_plus,men,24070.0,2610.0,137500.0
+Actuaries,bachelor_plus,women,10630.0,1580.0,132100.0
+Administrative services managers,less_bachelor,women,19900.0,2700.0,61410.0
+Administrative services managers,bachelor,women,12000.0,1830.0,72080.0
+Administrative services managers,bachelor_plus,men,8215.0,1495.0,92000.0
+Administrative services managers,bachelor_plus,women,17550.0,2215.0,72980.0
+Advertising and promotions managers,bachelor,men,13420.0,2015.0,124000.0
+Advertising and promotions managers,bachelor,women,18230.0,2530.0,86060.0
+Advertising and promotions managers,bachelor_plus,men,17420.0,2480.0,126300.0
+Advertising and promotions managers,bachelor_plus,women,21620.0,2840.0,87310.0
+Advertising sales agents,less_bachelor,men,13660.0,2045.0,70330.0
+Advertising sales agents,less_bachelor,women,10680.0,1740.0,52310.0
+Advertising sales agents,bachelor,men,23340.0,2775.0,95250.0
+Advertising sales agents,bachelor,women,23610.0,2885.0,95770.0
+Advertising sales agents,bachelor_plus,men,28500.0,3340.0,94850.0
+Advertising sales agents,bachelor_plus,women,27410.0,3135.0,92980.0
+Aerospace engineers,less_bachelor,men,10990.0,1815.0,92730.0
+Aerospace engineers,bachelor,men,62520.0,4470.0,116200.0
+Aerospace engineers,bachelor,women,8670.0,1740.0,101600.0
+Aerospace engineers,bachelor_plus,men,108600.0,5790.0,125200.0
+Aerospace engineers,bachelor_plus,women,16850.0,2430.0,114800.0
+Aerospace engineers,graduate,men,46110.0,3630.0,137700.0
+Aerospace engineers,graduate,women,8175.0,1730.0,129600.0
+"Agents and business managers of artists, performers, and athletes",bachelor,men,10640.0,2245.0,100600.0
+"Agents and business managers of artists, performers, and athletes",bachelor,women,8425.0,1840.0,84040.0
+"Agents and business managers of artists, performers, and athletes",bachelor_plus,men,13270.0,2360.0,103000.0
+"Agents and business managers of artists, performers, and athletes",bachelor_plus,women,12450.0,2210.0,87270.0
+Agricultural and food science technicians,less_bachelor,men,17050.0,2270.0,57280.0
+Agricultural and food science technicians,less_bachelor,women,7085.0,1335.0,47900.0
+Agricultural and food scientists,bachelor,men,11940.0,1815.0,80250.0
+Agricultural and food scientists,bachelor_plus,men,19540.0,2280.0,91450.0
+Agricultural and food scientists,bachelor_plus,women,9510.0,1730.0,75560.0
+Agricultural and food scientists,graduate,men,7600.0,1525.0,102800.0
+Air traffic controllers and airfield operations specialists,less_bachelor,men,13120.0,2120.0,106300.0
+Air traffic controllers and airfield operations specialists,bachelor,men,7385.0,1305.0,140000.0
+Air traffic controllers and airfield operations specialists,bachelor_plus,men,8565.0,1375.0,152200.0
+Aircraft mechanics and service technicians,less_bachelor,men,100800.0,5785.0,73680.0
+Aircraft mechanics and service technicians,bachelor,men,9875.0,1710.0,86450.0
+Aircraft mechanics and service technicians,bachelor_plus,men,12640.0,2050.0,86940.0
+Aircraft pilots and flight engineers,less_bachelor,men,22910.0,3010.0,105800.0
+Aircraft pilots and flight engineers,bachelor,men,55880.0,3890.0,155900.0
+Aircraft pilots and flight engineers,bachelor_plus,men,72160.0,4340.0,160400.0
+Aircraft pilots and flight engineers,graduate,men,16290.0,2300.0,182900.0
+Animal caretakers,less_bachelor,men,27150.0,3105.0,35910.0
+Animal caretakers,less_bachelor,women,63660.0,4835.0,32460.0
+Animal caretakers,bachelor,women,18980.0,2340.0,36090.0
+Animal caretakers,bachelor_plus,men,8245.0,1655.0,44970.0
+Animal caretakers,bachelor_plus,women,21900.0,2390.0,37130.0
+Animal trainers,less_bachelor,men,9980.0,2135.0,38890.0
+Animal trainers,less_bachelor,women,8855.0,1610.0,33760.0
+Animal trainers,bachelor_plus,women,8200.0,1630.0,35670.0
+"Architects, except landscape and naval",less_bachelor,men,13110.0,1840.0,106200.0
+"Architects, except landscape and naval",bachelor,men,61750.0,3740.0,110200.0
+"Architects, except landscape and naval",bachelor,women,22630.0,2675.0,92850.0
+"Architects, except landscape and naval",bachelor_plus,men,120700.0,5180.0,110800.0
+"Architects, except landscape and naval",bachelor_plus,women,45660.0,3865.0,88060.0
+"Architects, except landscape and naval",graduate,men,58990.0,3555.0,111900.0
+"Architects, except landscape and naval",graduate,women,23040.0,2830.0,84560.0
+Architectural and civil drafters,less_bachelor,men,24660.0,2880.0,67590.0
+Architectural and civil drafters,bachelor,men,6775.0,1360.0,66710.0
+Architectural and civil drafters,bachelor_plus,men,8110.0,1505.0,66770.0
+Architectural and engineering managers,less_bachelor,men,34160.0,3195.0,117800.0
+Architectural and engineering managers,bachelor,men,84320.0,5035.0,159100.0
+Architectural and engineering managers,bachelor,women,10810.0,1595.0,148800.0
+Architectural and engineering managers,bachelor_plus,men,148600.0,6485.0,166600.0
+Architectural and engineering managers,bachelor_plus,women,22870.0,2355.0,153400.0
+Architectural and engineering managers,graduate,men,64260.0,4135.0,186000.0
+Architectural and engineering managers,graduate,women,12050.0,1885.0,162000.0
+"Archivists, curators, and museum technicians",bachelor,men,9940.0,1590.0,64010.0
+"Archivists, curators, and museum technicians",bachelor,women,10600.0,1525.0,60560.0
+"Archivists, curators, and museum technicians",bachelor_plus,men,17810.0,2335.0,69520.0
+"Archivists, curators, and museum technicians",bachelor_plus,women,26440.0,2865.0,61990.0
+"Archivists, curators, and museum technicians",graduate,men,7870.0,1630.0,79120.0
+"Archivists, curators, and museum technicians",graduate,women,15830.0,2315.0,64280.0
+Artists and related workers,less_bachelor,men,46810.0,4460.0,49120.0
+Artists and related workers,less_bachelor,women,22170.0,3385.0,30800.0
+Artists and related workers,bachelor,men,37720.0,3195.0,74770.0
+Artists and related workers,bachelor,women,32070.0,3080.0,57550.0
+Artists and related workers,bachelor_plus,men,48770.0,3840.0,75760.0
+Artists and related workers,bachelor_plus,women,42990.0,3455.0,54160.0
+Artists and related workers,graduate,men,11050.0,1835.0,80520.0
+Artists and related workers,graduate,women,10920.0,2025.0,40620.0
+Astronomers and physicists,bachelor_plus,men,11410.0,1615.0,114300.0
+Astronomers and physicists,graduate,men,9310.0,1385.0,131200.0
+Athletes and sports competitors,bachelor,men,7665.0,1595.0,69560.0
+Athletes and sports competitors,bachelor_plus,men,8775.0,1725.0,63410.0
+Atmospheric and space scientists,bachelor_plus,men,8965.0,1665.0,96240.0
+Audiologists,bachelor_plus,women,12640.0,1645.0,87070.0
+Audiologists,graduate,women,11140.0,1600.0,87400.0
+Audiovisual equipment installers and repairers,less_bachelor,men,26750.0,3975.0,51580.0
+Automotive body and related repairers,less_bachelor,men,86030.0,5050.0,54340.0
+Automotive glass installers and repairers,less_bachelor,men,,,45470.0
+Automotive service technicians and mechanics,less_bachelor,men,564600.0,15220.0,50530.0
+Automotive service technicians and mechanics,bachelor,men,22610.0,3065.0,52410.0
+Automotive service technicians and mechanics,bachelor_plus,men,27770.0,3175.0,51780.0
+Avionics technicians,less_bachelor,men,12760.0,1880.0,76960.0
+"Baggage porters, bellhops, and concierges",less_bachelor,men,33330.0,3540.0,41840.0
+"Baggage porters, bellhops, and concierges",less_bachelor,women,9685.0,2025.0,35010.0
+Bailiffs,less_bachelor,men,9720.0,2275.0,60930.0
+Bakers,less_bachelor,men,43810.0,4890.0,35900.0
+Bakers,less_bachelor,women,51250.0,4635.0,31690.0
+Bakers,bachelor,women,7740.0,1640.0,36630.0
+Bakers,bachelor_plus,women,9965.0,1860.0,36510.0
+Barbers,less_bachelor,men,53900.0,5590.0,32440.0
+Barbers,less_bachelor,women,12410.0,2135.0,27280.0
+Bartenders,less_bachelor,men,63520.0,5325.0,40690.0
+Bartenders,less_bachelor,women,68090.0,4990.0,35180.0
+Bartenders,bachelor,men,20510.0,2915.0,46120.0
+Bartenders,bachelor,women,13800.0,2320.0,40970.0
+Bartenders,bachelor_plus,men,22740.0,3220.0,45620.0
+Bartenders,bachelor_plus,women,16170.0,2710.0,41480.0
+Bill and account collectors,less_bachelor,men,18470.0,2785.0,44240.0
+Bill and account collectors,less_bachelor,women,54470.0,4510.0,42390.0
+Bill and account collectors,bachelor,women,11420.0,2005.0,48090.0
+Bill and account collectors,bachelor_plus,women,12940.0,2115.0,48870.0
+Billing and posting clerks,less_bachelor,men,25620.0,3100.0,45590.0
+Billing and posting clerks,less_bachelor,women,239000.0,9095.0,41010.0
+Billing and posting clerks,bachelor,men,14790.0,2030.0,56250.0
+Billing and posting clerks,bachelor,women,43410.0,3530.0,46200.0
+Billing and posting clerks,bachelor_plus,men,19760.0,2615.0,59660.0
+Billing and posting clerks,bachelor_plus,women,54340.0,3785.0,46450.0
+Billing and posting clerks,graduate,women,10940.0,2035.0,48870.0
+Bioengineers and biomedical engineers,bachelor_plus,men,8635.0,1620.0,96140.0
+Biological scientists,bachelor,men,20130.0,2405.0,71310.0
+Biological scientists,bachelor,women,17600.0,2075.0,65190.0
+Biological scientists,bachelor_plus,men,42090.0,3270.0,79000.0
+Biological scientists,bachelor_plus,women,34850.0,2685.0,73660.0
+Biological scientists,graduate,men,21960.0,2300.0,85260.0
+Biological scientists,graduate,women,17250.0,2020.0,82250.0
+Boilermakers,less_bachelor,men,,,84900.0
+"Bookkeeping, accounting, and auditing clerks",less_bachelor,men,68600.0,5600.0,52050.0
+"Bookkeeping, accounting, and auditing clerks",less_bachelor,women,537600.0,13960.0,46490.0
+"Bookkeeping, accounting, and auditing clerks",bachelor,men,22840.0,2930.0,53010.0
+"Bookkeeping, accounting, and auditing clerks",bachelor,women,84250.0,4725.0,48670.0
+"Bookkeeping, accounting, and auditing clerks",bachelor_plus,men,27640.0,3210.0,54050.0
+"Bookkeeping, accounting, and auditing clerks",bachelor_plus,women,101900.0,5235.0,48390.0
+"Bookkeeping, accounting, and auditing clerks",graduate,women,17680.0,2550.0,47490.0
+"Brickmasons, blockmasons, and stonemasons",less_bachelor,men,73890.0,5960.0,47570.0
+"Broadcast, sound, and lighting technicians",less_bachelor,men,32730.0,3130.0,60000.0
+"Broadcast, sound, and lighting technicians",bachelor,men,22520.0,2660.0,72100.0
+"Broadcast, sound, and lighting technicians",bachelor_plus,men,26190.0,2875.0,72390.0
+Budget analysts,less_bachelor,women,7705.0,1545.0,69430.0
+Budget analysts,bachelor,men,8365.0,1695.0,93250.0
+Budget analysts,bachelor,women,11990.0,2050.0,85420.0
+Budget analysts,bachelor_plus,men,13360.0,1930.0,97430.0
+Budget analysts,bachelor_plus,women,20310.0,2275.0,87270.0
+Budget analysts,graduate,women,8320.0,1500.0,90240.0
+Bus and truck mechanics and diesel engine specialists,less_bachelor,men,221800.0,8490.0,58970.0
+Bus and truck mechanics and diesel engine specialists,bachelor,men,,,67050.0
+Bus and truck mechanics and diesel engine specialists,bachelor_plus,men,,,65790.0
+"Bus drivers, school",less_bachelor,men,36700.0,4075.0,39390.0
+"Bus drivers, school",less_bachelor,women,46970.0,3985.0,32340.0
+"Bus drivers, transit and intercity",less_bachelor,men,85560.0,5370.0,54360.0
+"Bus drivers, transit and intercity",less_bachelor,women,38090.0,3335.0,40550.0
+"Bus drivers, transit and intercity",bachelor_plus,men,8975.0,1660.0,54470.0
+"Business operations specialists, all other",less_bachelor,men,51710.0,4595.0,66370.0
+"Business operations specialists, all other",less_bachelor,women,83790.0,5135.0,51740.0
+"Business operations specialists, all other",bachelor,men,67730.0,4760.0,88740.0
+"Business operations specialists, all other",bachelor,women,78980.0,5055.0,71080.0
+"Business operations specialists, all other",bachelor_plus,men,108100.0,6330.0,100300.0
+"Business operations specialists, all other",bachelor_plus,women,122700.0,6430.0,76870.0
+"Business operations specialists, all other",graduate,men,40410.0,3445.0,121300.0
+"Business operations specialists, all other",graduate,women,43710.0,3520.0,89740.0
+"Butchers and other meat, poultry, and fish processing workers",less_bachelor,men,126300.0,6470.0,41600.0
+"Butchers and other meat, poultry, and fish processing workers",less_bachelor,women,35370.0,3880.0,34600.0
+Cabinetmakers and bench carpenters,less_bachelor,men,31170.0,3290.0,44670.0
+Cardiovascular technologists and technicians,less_bachelor,women,14620.0,2205.0,48680.0
+Cardiovascular technologists and technicians,bachelor_plus,men,8425.0,1560.0,172100.0
+Carpenters,less_bachelor,men,698500.0,16890.0,48380.0
+Carpenters,less_bachelor,women,11420.0,2110.0,36470.0
+Carpenters,bachelor,men,47080.0,3885.0,50940.0
+Carpenters,bachelor_plus,men,55960.0,4010.0,51430.0
+Carpenters,graduate,men,8880.0,2090.0,54090.0
+"Carpet, floor, and tile installers and finishers",less_bachelor,men,76610.0,6600.0,42980.0
+Cashiers,less_bachelor,men,169100.0,7205.0,31940.0
+Cashiers,less_bachelor,women,408700.0,12550.0,27830.0
+Cashiers,bachelor,men,32060.0,3390.0,36970.0
+Cashiers,bachelor,women,36370.0,3795.0,31720.0
+Cashiers,bachelor_plus,men,38430.0,3660.0,36810.0
+Cashiers,bachelor_plus,women,45090.0,4525.0,31430.0
+Cashiers,graduate,women,8720.0,1875.0,29410.0
+"Cement masons, concrete finishers, and terrazzo workers",less_bachelor,men,30740.0,2980.0,53030.0
+Chefs and head cooks,less_bachelor,men,224400.0,7925.0,42060.0
+Chefs and head cooks,less_bachelor,women,49830.0,4800.0,36160.0
+Chefs and head cooks,bachelor,men,29140.0,3365.0,54600.0
+Chefs and head cooks,bachelor,women,10280.0,1980.0,45750.0
+Chefs and head cooks,bachelor_plus,men,33890.0,3545.0,54060.0
+Chefs and head cooks,bachelor_plus,women,11600.0,2100.0,44700.0
+Chemical engineers,less_bachelor,men,7465.0,1960.0,89600.0
+Chemical engineers,bachelor,men,32620.0,3340.0,117300.0
+Chemical engineers,bachelor,women,9435.0,1930.0,113900.0
+Chemical engineers,bachelor_plus,men,52770.0,3710.0,126000.0
+Chemical engineers,bachelor_plus,women,14100.0,2045.0,117400.0
+Chemical engineers,graduate,men,20150.0,2950.0,133600.0
+"Chemical processing machine setters, operators, and tenders",less_bachelor,men,42090.0,4470.0,59840.0
+"Chemical processing machine setters, operators, and tenders",bachelor,men,12970.0,2065.0,55700.0
+"Chemical processing machine setters, operators, and tenders",bachelor_plus,men,15420.0,2145.0,54670.0
+Chemical technicians,less_bachelor,men,21100.0,2915.0,61270.0
+Chemical technicians,less_bachelor,women,10140.0,2300.0,52520.0
+Chemical technicians,bachelor,men,9405.0,2150.0,71200.0
+Chemical technicians,bachelor_plus,men,11380.0,2300.0,72190.0
+Chemists and materials scientists,bachelor,men,25260.0,2735.0,80280.0
+Chemists and materials scientists,bachelor,women,17970.0,1880.0,66520.0
+Chemists and materials scientists,bachelor_plus,men,47530.0,3605.0,94690.0
+Chemists and materials scientists,bachelor_plus,women,28990.0,2525.0,75550.0
+Chemists and materials scientists,graduate,men,22270.0,2365.0,107700.0
+Chemists and materials scientists,graduate,women,11030.0,1530.0,99250.0
+Chief executives,less_bachelor,men,252600.0,9645.0,122400.0
+Chief executives,less_bachelor,women,93540.0,5820.0,96450.0
+Chief executives,bachelor,men,388400.0,11960.0,193200.0
+Chief executives,bachelor,women,154700.0,6625.0,144500.0
+Chief executives,bachelor_plus,men,663200.0,16070.0,202500.0
+Chief executives,bachelor_plus,women,279800.0,9010.0,154000.0
+Chief executives,graduate,men,274800.0,9465.0,211400.0
+Chief executives,graduate,women,125200.0,5205.0,164100.0
+"Child, family, and school social workers",less_bachelor,women,13040.0,2430.0,42220.0
+"Child, family, and school social workers",bachelor,women,20190.0,2435.0,50750.0
+"Child, family, and school social workers",bachelor_plus,women,38680.0,3480.0,54700.0
+"Child, family, and school social workers",graduate,women,18500.0,2635.0,61250.0
+Childcare workers,less_bachelor,men,9380.0,1820.0,41180.0
+Childcare workers,less_bachelor,women,225100.0,9235.0,27500.0
+Childcare workers,bachelor,women,47910.0,4410.0,32880.0
+Childcare workers,bachelor_plus,women,59960.0,4755.0,32470.0
+Childcare workers,graduate,women,12050.0,1995.0,31620.0
+Chiropractors,bachelor_plus,men,30460.0,3000.0,91110.0
+Chiropractors,bachelor_plus,women,11320.0,2060.0,77360.0
+Chiropractors,graduate,men,28350.0,2730.0,91000.0
+Chiropractors,graduate,women,9985.0,1990.0,78110.0
+Civil engineers,less_bachelor,men,36490.0,3615.0,83960.0
+Civil engineers,bachelor,men,192700.0,8630.0,100500.0
+Civil engineers,bachelor,women,36810.0,3550.0,93410.0
+Civil engineers,bachelor_plus,men,284200.0,10530.0,105000.0
+Civil engineers,bachelor_plus,women,59010.0,4425.0,96690.0
+Civil engineers,graduate,men,91490.0,5735.0,120300.0
+Civil engineers,graduate,women,22200.0,2840.0,101300.0
+"Claims adjusters, appraisers, examiners, and investigators",less_bachelor,men,44350.0,3740.0,64740.0
+"Claims adjusters, appraisers, examiners, and investigators",less_bachelor,women,96580.0,5475.0,51210.0
+"Claims adjusters, appraisers, examiners, and investigators",bachelor,men,53810.0,3695.0,75620.0
+"Claims adjusters, appraisers, examiners, and investigators",bachelor,women,62400.0,4840.0,64650.0
+"Claims adjusters, appraisers, examiners, and investigators",bachelor_plus,men,68630.0,4245.0,77650.0
+"Claims adjusters, appraisers, examiners, and investigators",bachelor_plus,women,77800.0,5435.0,67140.0
+"Claims adjusters, appraisers, examiners, and investigators",graduate,men,14820.0,2110.0,89280.0
+"Claims adjusters, appraisers, examiners, and investigators",graduate,women,15400.0,2235.0,75350.0
+Cleaners of vehicles and equipment,less_bachelor,men,127300.0,6860.0,36030.0
+Cleaners of vehicles and equipment,less_bachelor,women,30530.0,3550.0,31860.0
+Clergy,less_bachelor,men,49890.0,4075.0,42940.0
+Clergy,less_bachelor,women,8845.0,1325.0,36300.0
+Clergy,bachelor,men,73900.0,4155.0,52890.0
+Clergy,bachelor,women,13170.0,1860.0,45610.0
+Clergy,bachelor_plus,men,200400.0,8990.0,56450.0
+Clergy,bachelor_plus,women,35300.0,2960.0,54400.0
+Clergy,graduate,men,126500.0,7050.0,59050.0
+Clergy,graduate,women,22130.0,2200.0,58490.0
+Clinical and counseling psychologists,bachelor_plus,women,8145.0,1385.0,106600.0
+Clinical and counseling psychologists,graduate,women,7070.0,1270.0,104600.0
+Clinical laboratory technologists and technicians,less_bachelor,men,33050.0,3435.0,52440.0
+Clinical laboratory technologists and technicians,less_bachelor,women,79620.0,4960.0,44200.0
+Clinical laboratory technologists and technicians,bachelor,men,31240.0,3040.0,64790.0
+Clinical laboratory technologists and technicians,bachelor,women,66510.0,4340.0,64780.0
+Clinical laboratory technologists and technicians,bachelor_plus,men,37730.0,3435.0,65890.0
+Clinical laboratory technologists and technicians,bachelor_plus,women,83750.0,5220.0,67060.0
+Clinical laboratory technologists and technicians,graduate,women,17240.0,2465.0,76330.0
+Coaches and scouts,less_bachelor,men,20580.0,3025.0,50010.0
+Coaches and scouts,less_bachelor,women,8625.0,1780.0,42940.0
+Coaches and scouts,bachelor,men,33750.0,3455.0,62840.0
+Coaches and scouts,bachelor,women,16650.0,2375.0,53420.0
+Coaches and scouts,bachelor_plus,men,57280.0,3950.0,63560.0
+Coaches and scouts,bachelor_plus,women,31970.0,2935.0,57960.0
+Coaches and scouts,graduate,men,23530.0,2595.0,64080.0
+Coaches and scouts,graduate,women,15320.0,2300.0,61050.0
+"Coin, vending, and amusement machine servicers and repairers",less_bachelor,men,15290.0,2810.0,41990.0
+Compensation and benefits managers,bachelor_plus,women,10890.0,2040.0,113100.0
+"Compensation, benefits, and job analysis specialists",less_bachelor,women,23550.0,2975.0,52050.0
+"Compensation, benefits, and job analysis specialists",bachelor,men,11030.0,1820.0,80100.0
+"Compensation, benefits, and job analysis specialists",bachelor,women,20060.0,2645.0,70260.0
+"Compensation, benefits, and job analysis specialists",bachelor_plus,men,13820.0,1975.0,81310.0
+"Compensation, benefits, and job analysis specialists",bachelor_plus,women,27380.0,3270.0,74780.0
+Compliance officers,less_bachelor,men,45500.0,4300.0,65940.0
+Compliance officers,less_bachelor,women,54650.0,5015.0,59100.0
+Compliance officers,bachelor,men,53710.0,4275.0,81020.0
+Compliance officers,bachelor,women,70270.0,4305.0,81130.0
+Compliance officers,bachelor_plus,men,86410.0,5370.0,89070.0
+Compliance officers,bachelor_plus,women,110300.0,5955.0,87920.0
+Compliance officers,graduate,men,32700.0,3030.0,105500.0
+Compliance officers,graduate,women,40030.0,3645.0,97410.0
+Computer and information research scientists,bachelor_plus,men,17710.0,2460.0,117400.0
+Computer and information research scientists,graduate,men,10270.0,1560.0,130500.0
+Computer and information systems managers,less_bachelor,men,120600.0,6440.0,106500.0
+Computer and information systems managers,less_bachelor,women,36640.0,3150.0,88020.0
+Computer and information systems managers,bachelor,men,194700.0,7670.0,137200.0
+Computer and information systems managers,bachelor,women,76250.0,4440.0,122300.0
+Computer and information systems managers,bachelor_plus,men,306900.0,8765.0,145100.0
+Computer and information systems managers,bachelor_plus,women,122700.0,5840.0,125600.0
+Computer and information systems managers,graduate,men,112200.0,5830.0,154900.0
+Computer and information systems managers,graduate,women,46450.0,3960.0,129800.0
+Computer hardware engineers,bachelor,men,20520.0,2880.0,113600.0
+Computer hardware engineers,bachelor_plus,men,36290.0,3480.0,133100.0
+Computer hardware engineers,graduate,men,15770.0,2200.0,144600.0
+Computer network architects,less_bachelor,men,45250.0,3860.0,96360.0
+Computer network architects,bachelor,men,37450.0,3025.0,109200.0
+Computer network architects,bachelor_plus,men,52460.0,3630.0,118200.0
+Computer network architects,graduate,men,15010.0,2210.0,135400.0
+Computer numerically controlled tool operators and programmers,less_bachelor,men,58990.0,4680.0,52540.0
+Computer numerically controlled tool operators and programmers,less_bachelor,women,6435.0,1660.0,40640.0
+"Computer occupations, all other",less_bachelor,men,237700.0,8880.0,68130.0
+"Computer occupations, all other",less_bachelor,women,57300.0,4270.0,57680.0
+"Computer occupations, all other",bachelor,men,202000.0,8490.0,87470.0
+"Computer occupations, all other",bachelor,women,65160.0,3930.0,81830.0
+"Computer occupations, all other",bachelor_plus,men,283600.0,10350.0,94240.0
+"Computer occupations, all other",bachelor_plus,women,99960.0,5215.0,86230.0
+"Computer occupations, all other",graduate,men,81660.0,4960.0,109400.0
+"Computer occupations, all other",graduate,women,34790.0,3435.0,100700.0
+Computer programmers,less_bachelor,men,50060.0,3755.0,82770.0
+Computer programmers,less_bachelor,women,10010.0,1800.0,74500.0
+Computer programmers,bachelor,men,93400.0,4615.0,105800.0
+Computer programmers,bachelor,women,17980.0,2245.0,102000.0
+Computer programmers,bachelor_plus,men,136300.0,6555.0,112300.0
+Computer programmers,bachelor_plus,women,29850.0,2900.0,102400.0
+Computer programmers,graduate,men,42880.0,3995.0,126200.0
+Computer programmers,graduate,women,11870.0,1910.0,104600.0
+Computer support specialists,less_bachelor,men,206000.0,9310.0,61750.0
+Computer support specialists,less_bachelor,women,67820.0,5175.0,54630.0
+Computer support specialists,bachelor,men,156000.0,7260.0,73950.0
+Computer support specialists,bachelor,women,45030.0,3385.0,71920.0
+Computer support specialists,bachelor_plus,men,201600.0,7410.0,79400.0
+Computer support specialists,bachelor_plus,women,63690.0,3995.0,76470.0
+Computer support specialists,graduate,men,45550.0,3635.0,102900.0
+Computer support specialists,graduate,women,18660.0,2560.0,100400.0
+Computer systems analysts,less_bachelor,men,78810.0,4720.0,78330.0
+Computer systems analysts,less_bachelor,women,59130.0,3975.0,73570.0
+Computer systems analysts,bachelor,men,143600.0,7210.0,95550.0
+Computer systems analysts,bachelor,women,91490.0,6435.0,86200.0
+Computer systems analysts,bachelor_plus,men,216900.0,8580.0,101100.0
+Computer systems analysts,bachelor_plus,women,140000.0,7695.0,88190.0
+Computer systems analysts,graduate,men,73280.0,4555.0,108800.0
+Computer systems analysts,graduate,women,48500.0,4555.0,94610.0
+"Computer, automated teller, and office machine repairers",less_bachelor,men,62340.0,5260.0,51660.0
+"Computer, automated teller, and office machine repairers",bachelor,men,17540.0,2445.0,55110.0
+"Computer, automated teller, and office machine repairers",bachelor_plus,men,21810.0,2945.0,53810.0
+Conservation scientists and foresters,bachelor,men,13490.0,1705.0,66550.0
+Conservation scientists and foresters,bachelor_plus,men,16250.0,1910.0,70330.0
+Conservation scientists and foresters,bachelor_plus,women,7415.0,1560.0,64400.0
+Construction and building inspectors,less_bachelor,men,54340.0,4595.0,63650.0
+Construction and building inspectors,bachelor,men,17580.0,2395.0,76140.0
+Construction and building inspectors,bachelor_plus,men,21590.0,2835.0,75350.0
+Construction equipment operators,less_bachelor,men,260700.0,8870.0,57000.0
+Construction equipment operators,bachelor,men,7115.0,1285.0,64340.0
+Construction equipment operators,bachelor_plus,men,8395.0,1365.0,62760.0
+Construction laborers,less_bachelor,men,962700.0,21260.0,42210.0
+Construction laborers,less_bachelor,women,33190.0,4075.0,35550.0
+Construction laborers,bachelor,men,49790.0,4870.0,53280.0
+Construction laborers,bachelor_plus,men,60590.0,5705.0,51610.0
+Construction laborers,graduate,men,10800.0,2435.0,44180.0
+Construction managers,less_bachelor,men,532400.0,15110.0,77500.0
+Construction managers,less_bachelor,women,33820.0,3520.0,64460.0
+Construction managers,bachelor,men,210500.0,7215.0,102000.0
+Construction managers,bachelor,women,31220.0,2895.0,86140.0
+Construction managers,bachelor_plus,men,259500.0,8215.0,103400.0
+Construction managers,bachelor_plus,women,41090.0,3205.0,90640.0
+Construction managers,graduate,men,49040.0,4565.0,111000.0
+Construction managers,graduate,women,9870.0,1465.0,105000.0
+Control and valve installers and repairers,less_bachelor,men,20350.0,3175.0,65090.0
+"Conveyor, dredge, and hoist and winch operators",less_bachelor,men,15090.0,2215.0,65590.0
+Cooks,less_bachelor,men,482000.0,13430.0,31370.0
+Cooks,less_bachelor,women,317300.0,11700.0,26490.0
+Cooks,bachelor,men,28450.0,3030.0,35840.0
+Cooks,bachelor,women,19280.0,2075.0,30320.0
+Cooks,bachelor_plus,men,34380.0,3465.0,35840.0
+Cooks,bachelor_plus,women,22700.0,2740.0,30340.0
+Correctional officers and jailers,less_bachelor,men,159600.0,8050.0,61180.0
+Correctional officers and jailers,less_bachelor,women,53330.0,4570.0,50260.0
+Correctional officers and jailers,bachelor,men,26860.0,2940.0,65530.0
+Correctional officers and jailers,bachelor,women,11700.0,2045.0,59980.0
+Correctional officers and jailers,bachelor_plus,men,31280.0,3140.0,66110.0
+Correctional officers and jailers,bachelor_plus,women,14820.0,2295.0,62470.0
+Cost estimators,less_bachelor,men,65070.0,4765.0,77420.0
+Cost estimators,less_bachelor,women,11940.0,1915.0,60690.0
+Cost estimators,bachelor,men,35180.0,3225.0,88790.0
+Cost estimators,bachelor_plus,men,41030.0,3455.0,90950.0
+Cost estimators,bachelor_plus,women,9105.0,1830.0,68190.0
+"Counselors, all other",less_bachelor,men,13090.0,2725.0,51850.0
+"Counselors, all other",less_bachelor,women,19780.0,3035.0,42030.0
+"Counselors, all other",bachelor,men,12760.0,1865.0,59450.0
+"Counselors, all other",bachelor,women,21130.0,2940.0,45490.0
+"Counselors, all other",bachelor_plus,men,27100.0,3110.0,60580.0
+"Counselors, all other",bachelor_plus,women,60330.0,5230.0,53810.0
+"Counselors, all other",graduate,men,14340.0,2450.0,61730.0
+"Counselors, all other",graduate,women,39200.0,3720.0,59390.0
+Counter and rental clerks,less_bachelor,men,16590.0,2605.0,42790.0
+Couriers and messengers,less_bachelor,men,193200.0,8365.0,42620.0
+Couriers and messengers,less_bachelor,women,48290.0,4345.0,30820.0
+Couriers and messengers,bachelor,men,30820.0,3370.0,44450.0
+Couriers and messengers,bachelor_plus,men,37840.0,4125.0,44890.0
+Court reporters and simultaneous captioners,less_bachelor,women,14730.0,2405.0,73310.0
+"Court, municipal, and license clerks",less_bachelor,women,40420.0,3935.0,41690.0
+"Court, municipal, and license clerks",bachelor,women,12970.0,2620.0,47700.0
+"Court, municipal, and license clerks",bachelor_plus,women,16060.0,2855.0,50450.0
+Crane and tower operators,less_bachelor,men,48950.0,4635.0,71210.0
+Credit analysts,bachelor,men,8910.0,1635.0,73860.0
+Credit analysts,bachelor_plus,men,12110.0,1910.0,79650.0
+Credit analysts,bachelor_plus,women,8015.0,1525.0,69500.0
+"Credit authorizers, checkers, and clerks",less_bachelor,women,16520.0,1910.0,42600.0
+Credit counselors and loan officers,less_bachelor,men,50970.0,4215.0,76460.0
+Credit counselors and loan officers,less_bachelor,women,103900.0,7335.0,58590.0
+Credit counselors and loan officers,bachelor,men,82570.0,5810.0,105100.0
+Credit counselors and loan officers,bachelor,women,54200.0,3795.0,70530.0
+Credit counselors and loan officers,bachelor_plus,men,102700.0,6445.0,106500.0
+Credit counselors and loan officers,bachelor_plus,women,68080.0,4165.0,71210.0
+Credit counselors and loan officers,graduate,men,20170.0,2925.0,125500.0
+Credit counselors and loan officers,graduate,women,13880.0,1975.0,72010.0
+"Crushing, grinding, polishing, mixing, and blending workers",less_bachelor,men,46320.0,4065.0,52700.0
+Customer service representatives,less_bachelor,men,357900.0,13180.0,43450.0
+Customer service representatives,less_bachelor,women,892100.0,20060.0,38810.0
+Customer service representatives,bachelor,men,180300.0,8790.0,61080.0
+Customer service representatives,bachelor,women,259200.0,10720.0,51380.0
+Customer service representatives,bachelor_plus,men,218100.0,9290.0,62100.0
+Customer service representatives,bachelor_plus,women,313200.0,12130.0,51840.0
+Customer service representatives,graduate,men,37730.0,3280.0,73020.0
+Customer service representatives,graduate,women,54020.0,4855.0,54810.0
+Cutting workers,less_bachelor,men,28800.0,2775.0,40580.0
+Cutting workers,less_bachelor,women,10930.0,1910.0,34460.0
+"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",less_bachelor,men,39130.0,3735.0,44300.0
+"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",less_bachelor,women,7075.0,1345.0,35340.0
+Data entry keyers,less_bachelor,men,30020.0,3005.0,42700.0
+Data entry keyers,less_bachelor,women,104000.0,6105.0,38680.0
+Data entry keyers,bachelor,men,9325.0,1665.0,48900.0
+Data entry keyers,bachelor,women,21210.0,2600.0,40710.0
+Data entry keyers,bachelor_plus,men,11030.0,1700.0,50550.0
+Data entry keyers,bachelor_plus,women,26200.0,2935.0,40280.0
+Database administrators and architects,less_bachelor,men,16740.0,2110.0,92440.0
+Database administrators and architects,less_bachelor,women,10320.0,1625.0,55340.0
+Database administrators and architects,bachelor,men,43910.0,3820.0,118000.0
+Database administrators and architects,bachelor,women,14580.0,1865.0,86970.0
+Database administrators and architects,bachelor_plus,men,66660.0,4685.0,121300.0
+Database administrators and architects,bachelor_plus,women,23730.0,2555.0,90810.0
+Database administrators and architects,graduate,men,22750.0,2775.0,128100.0
+Database administrators and architects,graduate,women,9145.0,1600.0,95600.0
+Dental and ophthalmic laboratory technicians and medical appliance technicians,less_bachelor,men,19580.0,2115.0,50920.0
+Dental and ophthalmic laboratory technicians and medical appliance technicians,less_bachelor,women,25280.0,2870.0,37970.0
+Dental assistants,less_bachelor,women,120900.0,6960.0,39040.0
+Dental assistants,bachelor,women,12300.0,2080.0,43100.0
+Dental assistants,bachelor_plus,women,15240.0,2365.0,42630.0
+Dental hygienists,less_bachelor,women,44890.0,3925.0,65860.0
+Dental hygienists,bachelor,women,24250.0,3105.0,74590.0
+Dental hygienists,bachelor_plus,women,28290.0,3255.0,73810.0
+Dentists,bachelor_plus,men,62970.0,4875.0,201100.0
+Dentists,bachelor_plus,women,33500.0,3220.0,158000.0
+Dentists,graduate,men,62970.0,4875.0,201100.0
+Dentists,graduate,women,33500.0,3220.0,158000.0
+"Derrick, rotary drill, and service unit operators, oil and gas",less_bachelor,men,,,70200.0
+Detectives and criminal investigators,less_bachelor,men,36510.0,3900.0,76600.0
+Detectives and criminal investigators,less_bachelor,women,7665.0,1670.0,75150.0
+Detectives and criminal investigators,bachelor,men,42250.0,3245.0,102700.0
+Detectives and criminal investigators,bachelor,women,15500.0,2260.0,84060.0
+Detectives and criminal investigators,bachelor_plus,men,59520.0,4370.0,104500.0
+Detectives and criminal investigators,bachelor_plus,women,26430.0,3120.0,85340.0
+Detectives and criminal investigators,graduate,men,17270.0,2585.0,113100.0
+Detectives and criminal investigators,graduate,women,10930.0,2130.0,88330.0
+Diagnostic medical sonographers,less_bachelor,women,27820.0,3125.0,74890.0
+Diagnostic medical sonographers,bachelor,men,8145.0,1550.0,95440.0
+Diagnostic medical sonographers,bachelor,women,16430.0,2125.0,81930.0
+Diagnostic medical sonographers,bachelor_plus,men,11860.0,1795.0,105500.0
+Diagnostic medical sonographers,bachelor_plus,women,21120.0,2675.0,83210.0
+Dietetic technicians and ophthalmic medical technicians,less_bachelor,women,15960.0,2465.0,32420.0
+Dietitians and nutritionists,less_bachelor,women,13010.0,2720.0,38540.0
+Dietitians and nutritionists,bachelor,women,21940.0,2895.0,64350.0
+Dietitians and nutritionists,bachelor_plus,women,49600.0,4315.0,65920.0
+Dietitians and nutritionists,graduate,women,27660.0,3225.0,67150.0
+Dining room and cafeteria attendants and bartender helpers,less_bachelor,men,22510.0,3150.0,29340.0
+Dining room and cafeteria attendants and bartender helpers,less_bachelor,women,27830.0,3390.0,24240.0
+"Directors, religious activities and education",bachelor,men,9260.0,1745.0,56350.0
+"Directors, religious activities and education",bachelor,women,10990.0,1690.0,50510.0
+"Directors, religious activities and education",bachelor_plus,men,15890.0,2085.0,61860.0
+"Directors, religious activities and education",bachelor_plus,women,17450.0,2300.0,50680.0
+"Directors, religious activities and education",graduate,men,6630.0,1330.0,74920.0
+"Directors, religious activities and education",graduate,women,6470.0,1455.0,52630.0
+Dishwashers,less_bachelor,men,47900.0,4595.0,28430.0
+Dishwashers,less_bachelor,women,15480.0,2370.0,23790.0
+"Dispatchers, except police, fire, and ambulance",less_bachelor,men,54960.0,4845.0,53680.0
+"Dispatchers, except police, fire, and ambulance",less_bachelor,women,65790.0,5620.0,41550.0
+"Dispatchers, except police, fire, and ambulance",bachelor,men,9610.0,1660.0,52300.0
+"Dispatchers, except police, fire, and ambulance",bachelor,women,10290.0,1970.0,48790.0
+"Dispatchers, except police, fire, and ambulance",bachelor_plus,men,11410.0,1705.0,54690.0
+"Dispatchers, except police, fire, and ambulance",bachelor_plus,women,12930.0,2290.0,45970.0
+"Door-to-door sales workers, news and street vendors, and related workers",less_bachelor,men,14180.0,3280.0,43970.0
+"Door-to-door sales workers, news and street vendors, and related workers",less_bachelor,women,8425.0,1355.0,33300.0
+Driver/sales workers and truck drivers,less_bachelor,men,2286000.0,29710.0,54720.0
+Driver/sales workers and truck drivers,less_bachelor,women,128100.0,7085.0,37990.0
+Driver/sales workers and truck drivers,bachelor,men,130800.0,8085.0,52960.0
+Driver/sales workers and truck drivers,bachelor,women,12020.0,2305.0,49930.0
+Driver/sales workers and truck drivers,bachelor_plus,men,159900.0,8380.0,53350.0
+Driver/sales workers and truck drivers,bachelor_plus,women,15460.0,2525.0,48950.0
+Driver/sales workers and truck drivers,graduate,men,29120.0,3500.0,55170.0
+"Drywall installers, ceiling tile installers, and tapers",less_bachelor,men,75100.0,4950.0,43060.0
+"Earth drillers, except oil and gas",less_bachelor,men,,,60730.0
+Economists,bachelor_plus,men,17000.0,1945.0,138300.0
+Economists,bachelor_plus,women,11640.0,1805.0,119600.0
+Economists,graduate,men,13420.0,1640.0,156300.0
+Economists,graduate,women,8735.0,1680.0,128200.0
+Editors,bachelor,men,22050.0,2400.0,71260.0
+Editors,bachelor,women,32170.0,2835.0,67300.0
+Editors,bachelor_plus,men,30560.0,2725.0,74440.0
+Editors,bachelor_plus,women,47250.0,3520.0,70790.0
+Editors,graduate,men,8510.0,1420.0,87600.0
+Editors,graduate,women,15080.0,1935.0,80560.0
+Education and childcare administrators,less_bachelor,men,37550.0,3730.0,65660.0
+Education and childcare administrators,less_bachelor,women,96580.0,5860.0,45440.0
+Education and childcare administrators,bachelor,men,74410.0,4875.0,75490.0
+Education and childcare administrators,bachelor,women,140700.0,6735.0,61940.0
+Education and childcare administrators,bachelor_plus,men,261600.0,9260.0,95460.0
+Education and childcare administrators,bachelor_plus,women,445400.0,11700.0,80710.0
+Education and childcare administrators,graduate,men,187200.0,7600.0,101800.0
+Education and childcare administrators,graduate,women,304700.0,9865.0,88170.0
+"Educational, guidance, and career counselors and advisors",less_bachelor,women,18100.0,2595.0,39990.0
+"Educational, guidance, and career counselors and advisors",bachelor,men,16900.0,2125.0,55850.0
+"Educational, guidance, and career counselors and advisors",bachelor,women,43040.0,4330.0,50830.0
+"Educational, guidance, and career counselors and advisors",bachelor_plus,men,52830.0,4195.0,63940.0
+"Educational, guidance, and career counselors and advisors",bachelor_plus,women,182300.0,7940.0,61050.0
+"Educational, guidance, and career counselors and advisors",graduate,men,35940.0,3550.0,68660.0
+"Educational, guidance, and career counselors and advisors",graduate,women,139300.0,6770.0,63620.0
+"Electric motor, power tool, and related repairers",less_bachelor,men,16010.0,2405.0,56250.0
+Electrical and electronic engineering technologists and technicians,less_bachelor,men,60700.0,4600.0,71280.0
+Electrical and electronic engineering technologists and technicians,bachelor,men,9915.0,1705.0,83730.0
+Electrical and electronic engineering technologists and technicians,bachelor_plus,men,11900.0,1840.0,83070.0
+Electrical and electronics engineers,less_bachelor,men,35570.0,2820.0,92120.0
+Electrical and electronics engineers,bachelor,men,113500.0,5930.0,108700.0
+Electrical and electronics engineers,bachelor,women,7960.0,1420.0,93130.0
+Electrical and electronics engineers,bachelor_plus,men,174300.0,7860.0,118500.0
+Electrical and electronics engineers,bachelor_plus,women,16560.0,2125.0,106800.0
+Electrical and electronics engineers,graduate,men,60850.0,4575.0,138200.0
+Electrical and electronics engineers,graduate,women,8595.0,1480.0,121400.0
+"Electrical and electronics repairers, industrial and utility",less_bachelor,men,10220.0,1755.0,97230.0
+Electrical power-line installers and repairers,less_bachelor,men,93510.0,6160.0,93680.0
+Electrical power-line installers and repairers,bachelor,men,,,87690.0
+Electrical power-line installers and repairers,bachelor_plus,men,8550.0,1865.0,93240.0
+"Electrical, electronics, and electromechanical assemblers",less_bachelor,men,40980.0,3525.0,41970.0
+"Electrical, electronics, and electromechanical assemblers",less_bachelor,women,30460.0,3050.0,35520.0
+Electricians,less_bachelor,men,616700.0,16080.0,64190.0
+Electricians,less_bachelor,women,10800.0,1735.0,51830.0
+Electricians,bachelor,men,52050.0,4335.0,64500.0
+Electricians,bachelor_plus,men,60710.0,4470.0,64350.0
+Electricians,graduate,men,8670.0,1705.0,62730.0
+Elementary and middle school teachers,less_bachelor,men,13640.0,2055.0,46180.0
+Elementary and middle school teachers,less_bachelor,women,61340.0,5190.0,31230.0
+Elementary and middle school teachers,bachelor,men,198700.0,7530.0,55720.0
+Elementary and middle school teachers,bachelor,women,721300.0,17120.0,52220.0
+Elementary and middle school teachers,bachelor_plus,men,428200.0,12970.0,63680.0
+Elementary and middle school teachers,bachelor_plus,women,1619000.0,20330.0,59360.0
+Elementary and middle school teachers,graduate,men,229500.0,10800.0,71190.0
+Elementary and middle school teachers,graduate,women,897600.0,16260.0,65950.0
+Elevator and escalator installers and repairers,less_bachelor,men,24510.0,3300.0,102700.0
+"Eligibility interviewers, government programs",less_bachelor,women,34390.0,3900.0,45840.0
+"Eligibility interviewers, government programs",bachelor,women,17730.0,2530.0,51560.0
+"Eligibility interviewers, government programs",bachelor_plus,men,9745.0,1845.0,62040.0
+"Eligibility interviewers, government programs",bachelor_plus,women,23220.0,2940.0,52800.0
+Emergency medical technicians,less_bachelor,men,33700.0,3855.0,47060.0
+Emergency medical technicians,less_bachelor,women,21070.0,2780.0,41990.0
+Emergency medical technicians,bachelor,men,10010.0,1865.0,47010.0
+Emergency medical technicians,bachelor_plus,men,10990.0,1930.0,47070.0
+Emergency medicine physicians,bachelor_plus,men,9195.0,1880.0,250700.0
+Emergency medicine physicians,graduate,men,9195.0,1880.0,250700.0
+Engine and other machine assemblers,less_bachelor,men,6645.0,1485.0,54840.0
+"Engineers, all other",less_bachelor,men,79290.0,5090.0,92030.0
+"Engineers, all other",bachelor,men,228900.0,8495.0,105500.0
+"Engineers, all other",bachelor,women,35380.0,3435.0,101100.0
+"Engineers, all other",bachelor_plus,men,389600.0,11920.0,116200.0
+"Engineers, all other",bachelor_plus,women,69370.0,4805.0,107700.0
+"Engineers, all other",graduate,men,160700.0,7490.0,135300.0
+"Engineers, all other",graduate,women,33990.0,3210.0,118900.0
+Entertainment and recreation managers,less_bachelor,men,13360.0,2080.0,61220.0
+Entertainment and recreation managers,less_bachelor,women,7945.0,1690.0,52900.0
+Entertainment and recreation managers,bachelor,men,9125.0,1745.0,62800.0
+Entertainment and recreation managers,bachelor_plus,men,12280.0,1880.0,71110.0
+Entertainment and recreation managers,bachelor_plus,women,8735.0,1580.0,54320.0
+Environmental engineers,bachelor,men,9840.0,1595.0,96820.0
+Environmental engineers,bachelor_plus,men,16560.0,2355.0,105400.0
+Environmental engineers,bachelor_plus,women,7975.0,1425.0,92980.0
+"Environmental scientists and specialists, including health",bachelor,men,14230.0,2430.0,75020.0
+"Environmental scientists and specialists, including health",bachelor,women,9235.0,1720.0,70920.0
+"Environmental scientists and specialists, including health",bachelor_plus,men,21920.0,3015.0,76830.0
+"Environmental scientists and specialists, including health",bachelor_plus,women,14700.0,2005.0,77810.0
+"Environmental scientists and specialists, including health",graduate,men,7690.0,1510.0,86710.0
+Executive secretaries and executive administrative assistants,less_bachelor,women,120300.0,5775.0,64190.0
+Executive secretaries and executive administrative assistants,bachelor,women,69070.0,4595.0,72540.0
+Executive secretaries and executive administrative assistants,bachelor_plus,women,84270.0,5040.0,73600.0
+Executive secretaries and executive administrative assistants,graduate,women,15210.0,2120.0,76030.0
+Exercise trainers and group fitness instructors,less_bachelor,men,21750.0,3030.0,42050.0
+Exercise trainers and group fitness instructors,less_bachelor,women,11700.0,2065.0,32350.0
+Exercise trainers and group fitness instructors,bachelor,men,15680.0,2305.0,41460.0
+Exercise trainers and group fitness instructors,bachelor,women,18140.0,2730.0,42480.0
+Exercise trainers and group fitness instructors,bachelor_plus,men,20040.0,2625.0,44000.0
+Exercise trainers and group fitness instructors,bachelor_plus,women,23390.0,2930.0,42360.0
+"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",less_bachelor,men,13540.0,1880.0,50890.0
+Facilities managers,less_bachelor,men,54610.0,4655.0,78670.0
+Facilities managers,less_bachelor,women,11740.0,2040.0,59240.0
+Facilities managers,bachelor,men,20350.0,2030.0,78820.0
+Facilities managers,bachelor,women,6980.0,1310.0,75390.0
+Facilities managers,bachelor_plus,men,27000.0,2250.0,81510.0
+Facilities managers,bachelor_plus,women,9095.0,1445.0,83420.0
+"Farmers, ranchers, and other agricultural managers",less_bachelor,men,235900.0,8135.0,51280.0
+"Farmers, ranchers, and other agricultural managers",less_bachelor,women,29700.0,2715.0,36620.0
+"Farmers, ranchers, and other agricultural managers",bachelor,men,69910.0,3690.0,62270.0
+"Farmers, ranchers, and other agricultural managers",bachelor,women,16650.0,2315.0,42770.0
+"Farmers, ranchers, and other agricultural managers",bachelor_plus,men,82050.0,3940.0,62230.0
+"Farmers, ranchers, and other agricultural managers",bachelor_plus,women,21090.0,2495.0,42810.0
+"Farmers, ranchers, and other agricultural managers",graduate,men,12140.0,1845.0,61990.0
+Fashion designers,bachelor_plus,women,8975.0,1660.0,57030.0
+Fast food and counter workers,less_bachelor,men,34150.0,3590.0,31360.0
+Fast food and counter workers,less_bachelor,women,53560.0,4885.0,26600.0
+Fast food and counter workers,bachelor_plus,women,8505.0,1585.0,29410.0
+Fence erectors,less_bachelor,men,16060.0,2820.0,41200.0
+File clerks,less_bachelor,men,11300.0,2045.0,49730.0
+File clerks,less_bachelor,women,48400.0,3715.0,40940.0
+File clerks,bachelor,women,12850.0,1975.0,46420.0
+File clerks,bachelor_plus,women,15560.0,2060.0,48080.0
+Financial and investment analysts,less_bachelor,men,13050.0,2250.0,73540.0
+Financial and investment analysts,less_bachelor,women,22570.0,2865.0,70770.0
+Financial and investment analysts,bachelor,men,91020.0,5010.0,101000.0
+Financial and investment analysts,bachelor,women,59480.0,4885.0,88740.0
+Financial and investment analysts,bachelor_plus,men,150000.0,5600.0,109900.0
+Financial and investment analysts,bachelor_plus,women,95820.0,5560.0,93610.0
+Financial and investment analysts,graduate,men,59030.0,4120.0,131100.0
+Financial and investment analysts,graduate,women,36350.0,2880.0,103100.0
+"Financial clerks, all other",less_bachelor,women,35860.0,3145.0,47920.0
+"Financial clerks, all other",bachelor,men,18070.0,2735.0,100700.0
+"Financial clerks, all other",bachelor,women,17340.0,2380.0,67290.0
+"Financial clerks, all other",bachelor_plus,men,26950.0,3220.0,107300.0
+"Financial clerks, all other",bachelor_plus,women,22390.0,2690.0,71820.0
+"Financial clerks, all other",graduate,men,8875.0,1910.0,155800.0
+Financial examiners,bachelor_plus,men,9105.0,1595.0,102700.0
+Financial managers,less_bachelor,men,126000.0,6270.0,80190.0
+Financial managers,less_bachelor,women,317300.0,10690.0,61120.0
+Financial managers,bachelor,men,281800.0,9905.0,117700.0
+Financial managers,bachelor,women,262300.0,9535.0,92730.0
+Financial managers,bachelor_plus,men,449800.0,13770.0,130500.0
+Financial managers,bachelor_plus,women,381400.0,11370.0,99980.0
+Financial managers,graduate,men,168000.0,7890.0,156500.0
+Financial managers,graduate,women,119100.0,6175.0,117200.0
+Fire inspectors,less_bachelor,men,14480.0,1800.0,71430.0
+Firefighters,less_bachelor,men,206300.0,8230.0,79360.0
+Firefighters,less_bachelor,women,8350.0,1700.0,71180.0
+Firefighters,bachelor,men,63490.0,4870.0,91610.0
+Firefighters,bachelor_plus,men,74790.0,5150.0,92340.0
+Firefighters,graduate,men,11300.0,1955.0,97800.0
+First-line supervisors of construction trades and extraction workers,less_bachelor,men,465600.0,13430.0,66220.0
+First-line supervisors of construction trades and extraction workers,less_bachelor,women,15650.0,2615.0,51600.0
+First-line supervisors of construction trades and extraction workers,bachelor,men,44330.0,3875.0,73580.0
+First-line supervisors of construction trades and extraction workers,bachelor_plus,men,54210.0,4240.0,75350.0
+First-line supervisors of construction trades and extraction workers,graduate,men,9890.0,2395.0,90500.0
+First-line supervisors of correctional officers,less_bachelor,men,20400.0,2580.0,72310.0
+"First-line supervisors of farming, fishing, and forestry workers",less_bachelor,men,26770.0,2660.0,55000.0
+First-line supervisors of firefighting and prevention workers,less_bachelor,men,36550.0,3640.0,95980.0
+First-line supervisors of firefighting and prevention workers,bachelor,men,12390.0,1515.0,119200.0
+First-line supervisors of firefighting and prevention workers,bachelor_plus,men,15530.0,1720.0,120400.0
+First-line supervisors of food preparation and serving workers,less_bachelor,men,89860.0,6445.0,41580.0
+First-line supervisors of food preparation and serving workers,less_bachelor,women,123600.0,7000.0,31430.0
+First-line supervisors of food preparation and serving workers,bachelor,men,15850.0,2100.0,50940.0
+First-line supervisors of food preparation and serving workers,bachelor,women,17260.0,2520.0,41770.0
+First-line supervisors of food preparation and serving workers,bachelor_plus,men,17990.0,2075.0,52220.0
+First-line supervisors of food preparation and serving workers,bachelor_plus,women,20460.0,2785.0,42360.0
+First-line supervisors of housekeeping and janitorial workers,less_bachelor,men,77210.0,5005.0,50520.0
+First-line supervisors of housekeeping and janitorial workers,less_bachelor,women,61470.0,5095.0,37050.0
+First-line supervisors of housekeeping and janitorial workers,bachelor,men,13490.0,2540.0,66070.0
+First-line supervisors of housekeeping and janitorial workers,bachelor_plus,men,16060.0,2655.0,64570.0
+First-line supervisors of housekeeping and janitorial workers,bachelor_plus,women,9975.0,2105.0,51640.0
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",less_bachelor,men,87880.0,5625.0,47690.0
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",bachelor,men,19460.0,2595.0,64380.0
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",bachelor_plus,men,23180.0,2985.0,66070.0
+"First-line supervisors of mechanics, installers, and repairers",less_bachelor,men,167500.0,7920.0,71060.0
+"First-line supervisors of mechanics, installers, and repairers",less_bachelor,women,10730.0,1720.0,60930.0
+"First-line supervisors of mechanics, installers, and repairers",bachelor,men,20760.0,2755.0,84590.0
+"First-line supervisors of mechanics, installers, and repairers",bachelor_plus,men,25320.0,3020.0,87360.0
+First-line supervisors of non-retail sales workers,less_bachelor,men,339500.0,12380.0,64380.0
+First-line supervisors of non-retail sales workers,less_bachelor,women,188800.0,8190.0,52630.0
+First-line supervisors of non-retail sales workers,bachelor,men,180700.0,7285.0,101100.0
+First-line supervisors of non-retail sales workers,bachelor,women,115400.0,6150.0,82410.0
+First-line supervisors of non-retail sales workers,bachelor_plus,men,232600.0,7830.0,103500.0
+First-line supervisors of non-retail sales workers,bachelor_plus,women,157200.0,8260.0,87110.0
+First-line supervisors of non-retail sales workers,graduate,men,51970.0,4005.0,116300.0
+First-line supervisors of non-retail sales workers,graduate,women,41820.0,4455.0,102100.0
+First-line supervisors of office and administrative support workers,less_bachelor,men,181900.0,9480.0,61520.0
+First-line supervisors of office and administrative support workers,less_bachelor,women,375400.0,10630.0,50710.0
+First-line supervisors of office and administrative support workers,bachelor,men,90550.0,5400.0,77990.0
+First-line supervisors of office and administrative support workers,bachelor,women,153200.0,7360.0,61670.0
+First-line supervisors of office and administrative support workers,bachelor_plus,men,120600.0,5970.0,82530.0
+First-line supervisors of office and administrative support workers,bachelor_plus,women,202100.0,8135.0,62980.0
+First-line supervisors of office and administrative support workers,graduate,men,30020.0,2590.0,99750.0
+First-line supervisors of office and administrative support workers,graduate,women,48920.0,4130.0,68980.0
+First-line supervisors of police and detectives,less_bachelor,men,36680.0,2895.0,83210.0
+First-line supervisors of police and detectives,bachelor,men,27560.0,3345.0,118000.0
+First-line supervisors of police and detectives,bachelor_plus,men,37270.0,3715.0,119300.0
+First-line supervisors of police and detectives,bachelor_plus,women,7410.0,1450.0,90890.0
+First-line supervisors of police and detectives,graduate,men,9705.0,1615.0,124600.0
+First-line supervisors of production and operating workers,less_bachelor,men,457000.0,13040.0,64710.0
+First-line supervisors of production and operating workers,less_bachelor,women,113200.0,5635.0,46440.0
+First-line supervisors of production and operating workers,bachelor,men,66660.0,5400.0,81050.0
+First-line supervisors of production and operating workers,bachelor,women,20890.0,2580.0,71580.0
+First-line supervisors of production and operating workers,bachelor_plus,men,83430.0,6140.0,83960.0
+First-line supervisors of production and operating workers,bachelor_plus,women,27750.0,2915.0,78800.0
+First-line supervisors of production and operating workers,graduate,men,16770.0,2455.0,101900.0
+First-line supervisors of retail sales workers,less_bachelor,men,888000.0,16590.0,56320.0
+First-line supervisors of retail sales workers,less_bachelor,women,682800.0,15520.0,42310.0
+First-line supervisors of retail sales workers,bachelor,men,289500.0,9170.0,70710.0
+First-line supervisors of retail sales workers,bachelor,women,207300.0,9160.0,57770.0
+First-line supervisors of retail sales workers,bachelor_plus,men,356600.0,9220.0,71780.0
+First-line supervisors of retail sales workers,bachelor_plus,women,263900.0,10050.0,59720.0
+First-line supervisors of retail sales workers,graduate,men,67110.0,4550.0,79200.0
+First-line supervisors of retail sales workers,graduate,women,56620.0,4005.0,65000.0
+First-line supervisors of security workers,less_bachelor,men,30480.0,3625.0,61650.0
+First-line supervisors of security workers,less_bachelor,women,11130.0,1890.0,47910.0
+First-line supervisors of security workers,bachelor,men,10160.0,1400.0,83900.0
+First-line supervisors of security workers,bachelor_plus,men,15870.0,2020.0,94950.0
+Fishing and hunting workers,less_bachelor,men,14440.0,2345.0,44930.0
+Flight attendants,less_bachelor,women,19940.0,3060.0,51090.0
+Flight attendants,bachelor,women,13360.0,2230.0,52510.0
+Flight attendants,bachelor_plus,women,16120.0,2630.0,53060.0
+Floral designers,less_bachelor,women,17480.0,2245.0,36380.0
+Food batchmakers,less_bachelor,men,17340.0,2180.0,45510.0
+Food batchmakers,less_bachelor,women,24710.0,2825.0,33040.0
+Food preparation workers,less_bachelor,men,92240.0,5895.0,29930.0
+Food preparation workers,less_bachelor,women,138800.0,8690.0,26950.0
+Food preparation workers,bachelor,women,10190.0,2000.0,28550.0
+Food preparation workers,bachelor_plus,women,12480.0,2290.0,28140.0
+"Food processing workers, all other",less_bachelor,men,69140.0,4600.0,47430.0
+"Food processing workers, all other",less_bachelor,women,30620.0,3750.0,37890.0
+"Food servers, nonrestaurant",less_bachelor,men,18350.0,2770.0,32430.0
+"Food servers, nonrestaurant",less_bachelor,women,31340.0,3160.0,30100.0
+Food service managers,less_bachelor,men,267100.0,9260.0,52550.0
+Food service managers,less_bachelor,women,226800.0,9000.0,42160.0
+Food service managers,bachelor,men,80110.0,5350.0,68860.0
+Food service managers,bachelor,women,55540.0,3900.0,56450.0
+Food service managers,bachelor_plus,men,98690.0,5670.0,69320.0
+Food service managers,bachelor_plus,women,67560.0,4405.0,57630.0
+Food service managers,graduate,men,18590.0,2705.0,72100.0
+Food service managers,graduate,women,12020.0,1950.0,61480.0
+"Forming machine setters, operators, and tenders, metal and plastic",less_bachelor,men,17560.0,2395.0,48260.0
+Fundraisers,bachelor,men,8775.0,1550.0,90750.0
+Fundraisers,bachelor,women,26660.0,2800.0,77180.0
+Fundraisers,bachelor_plus,men,16030.0,1860.0,93400.0
+Fundraisers,bachelor_plus,women,44210.0,3370.0,79380.0
+Fundraisers,graduate,women,17550.0,2250.0,83070.0
+Gambling services workers,less_bachelor,men,25900.0,2920.0,50040.0
+Gambling services workers,less_bachelor,women,17820.0,2210.0,43810.0
+General and operations managers,less_bachelor,men,399100.0,11300.0,78970.0
+General and operations managers,less_bachelor,women,195200.0,7505.0,61950.0
+General and operations managers,bachelor,men,237400.0,7900.0,101300.0
+General and operations managers,bachelor,women,126200.0,5790.0,82180.0
+General and operations managers,bachelor_plus,men,328600.0,10230.0,105600.0
+General and operations managers,bachelor_plus,women,181100.0,7330.0,87360.0
+General and operations managers,graduate,men,91150.0,5250.0,130900.0
+General and operations managers,graduate,women,54950.0,4290.0,101800.0
+"Geoscientists and hydrologists, except geographers",bachelor,men,12250.0,1825.0,81770.0
+"Geoscientists and hydrologists, except geographers",bachelor_plus,men,27710.0,2695.0,94520.0
+"Geoscientists and hydrologists, except geographers",bachelor_plus,women,7915.0,1255.0,93570.0
+"Geoscientists and hydrologists, except geographers",graduate,men,15460.0,2065.0,113800.0
+Glaziers,less_bachelor,men,30850.0,3195.0,54540.0
+"Graders and sorters, agricultural products",less_bachelor,women,16430.0,2315.0,30560.0
+Graphic designers,less_bachelor,men,37710.0,3455.0,58170.0
+Graphic designers,less_bachelor,women,24110.0,2930.0,52110.0
+Graphic designers,bachelor,men,57270.0,4545.0,67530.0
+Graphic designers,bachelor,women,68460.0,4420.0,59570.0
+Graphic designers,bachelor_plus,men,66170.0,4855.0,67810.0
+Graphic designers,bachelor_plus,women,79490.0,4730.0,60490.0
+Graphic designers,graduate,men,8905.0,1805.0,68510.0
+Graphic designers,graduate,women,11030.0,1910.0,64530.0
+"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",less_bachelor,men,22400.0,2650.0,43990.0
+"Hairdressers, hairstylists, and cosmetologists",less_bachelor,men,32710.0,3250.0,42320.0
+"Hairdressers, hairstylists, and cosmetologists",less_bachelor,women,275100.0,10170.0,35770.0
+"Hairdressers, hairstylists, and cosmetologists",bachelor,women,19470.0,2845.0,40680.0
+"Hairdressers, hairstylists, and cosmetologists",bachelor_plus,women,23360.0,3025.0,40130.0
+Hazardous materials removal workers,less_bachelor,men,10420.0,1890.0,52220.0
+Healthcare social workers,less_bachelor,women,16540.0,2475.0,41900.0
+Healthcare social workers,bachelor,women,15750.0,2450.0,57530.0
+Healthcare social workers,bachelor_plus,men,7210.0,1470.0,63160.0
+Healthcare social workers,bachelor_plus,women,34300.0,3330.0,64290.0
+Healthcare social workers,graduate,women,18560.0,2415.0,69140.0
+"Heating, air conditioning, and refrigeration mechanics and installers",less_bachelor,men,312100.0,9960.0,56470.0
+"Heating, air conditioning, and refrigeration mechanics and installers",bachelor,men,19070.0,2660.0,61410.0
+"Heating, air conditioning, and refrigeration mechanics and installers",bachelor_plus,men,22240.0,2825.0,61590.0
+Heavy vehicle and mobile equipment service technicians and mechanics,less_bachelor,men,157300.0,7725.0,63820.0
+Heavy vehicle and mobile equipment service technicians and mechanics,bachelor,men,7860.0,1455.0,64160.0
+Heavy vehicle and mobile equipment service technicians and mechanics,bachelor_plus,men,9330.0,1645.0,63050.0
+"Helpers, construction trades",less_bachelor,men,17100.0,2190.0,40560.0
+"Helpers--installation, maintenance, and repair workers",less_bachelor,men,8860.0,1765.0,41940.0
+Helpers--production workers,less_bachelor,men,19810.0,2690.0,34580.0
+Highway maintenance workers,less_bachelor,men,54840.0,4295.0,46330.0
+Home appliance repairers,less_bachelor,men,23990.0,2790.0,46360.0
+Home health aides,less_bachelor,men,23020.0,3570.0,34610.0
+Home health aides,less_bachelor,women,173200.0,8540.0,31680.0
+Home health aides,bachelor,women,14620.0,2055.0,34720.0
+Home health aides,bachelor_plus,women,21070.0,2695.0,36780.0
+"Hosts and hostesses, restaurant, lounge, and coffee shop",less_bachelor,women,14680.0,2770.0,28420.0
+"Hotel, motel, and resort desk clerks",less_bachelor,men,17810.0,2780.0,31970.0
+"Hotel, motel, and resort desk clerks",less_bachelor,women,25720.0,3225.0,27940.0
+"Human resources assistants, except payroll and timekeeping",less_bachelor,women,32300.0,3905.0,51420.0
+"Human resources assistants, except payroll and timekeeping",bachelor,women,21540.0,2695.0,64720.0
+"Human resources assistants, except payroll and timekeeping",bachelor_plus,women,28060.0,2895.0,69660.0
+Human resources managers,less_bachelor,men,12140.0,1900.0,80000.0
+Human resources managers,less_bachelor,women,53160.0,3870.0,69920.0
+Human resources managers,bachelor,men,29590.0,2920.0,118600.0
+Human resources managers,bachelor,women,86650.0,5105.0,97910.0
+Human resources managers,bachelor_plus,men,51810.0,4270.0,125400.0
+Human resources managers,bachelor_plus,women,141200.0,6600.0,102000.0
+Human resources managers,graduate,men,22220.0,2925.0,130200.0
+Human resources managers,graduate,women,54600.0,4660.0,109800.0
+Human resources workers,less_bachelor,men,62300.0,4395.0,65690.0
+Human resources workers,less_bachelor,women,213600.0,7995.0,56260.0
+Human resources workers,bachelor,men,102800.0,6020.0,77770.0
+Human resources workers,bachelor,women,278400.0,10210.0,75880.0
+Human resources workers,bachelor_plus,men,147200.0,7575.0,83380.0
+Human resources workers,bachelor_plus,women,397800.0,13160.0,79080.0
+Human resources workers,graduate,men,44410.0,3775.0,100400.0
+Human resources workers,graduate,women,119400.0,6875.0,86640.0
+Industrial and refractory machinery mechanics,less_bachelor,men,240900.0,9030.0,64010.0
+Industrial and refractory machinery mechanics,less_bachelor,women,9420.0,1800.0,51660.0
+Industrial and refractory machinery mechanics,bachelor,men,15020.0,2050.0,63230.0
+Industrial and refractory machinery mechanics,bachelor_plus,men,17850.0,2205.0,62410.0
+"Industrial engineers, including health and safety",less_bachelor,men,44670.0,4265.0,82100.0
+"Industrial engineers, including health and safety",less_bachelor,women,9805.0,1780.0,66790.0
+"Industrial engineers, including health and safety",bachelor,men,103900.0,6830.0,97550.0
+"Industrial engineers, including health and safety",bachelor,women,31750.0,3205.0,89620.0
+"Industrial engineers, including health and safety",bachelor_plus,men,141400.0,7835.0,100500.0
+"Industrial engineers, including health and safety",bachelor_plus,women,47600.0,3635.0,95440.0
+"Industrial engineers, including health and safety",graduate,men,37480.0,3095.0,109900.0
+"Industrial engineers, including health and safety",graduate,women,15850.0,2315.0,104600.0
+Industrial production managers,less_bachelor,men,117400.0,6140.0,80620.0
+Industrial production managers,less_bachelor,women,27240.0,2735.0,62350.0
+Industrial production managers,bachelor,men,67660.0,4585.0,102400.0
+Industrial production managers,bachelor,women,24150.0,2680.0,96230.0
+Industrial production managers,bachelor_plus,men,93100.0,4845.0,109500.0
+Industrial production managers,bachelor_plus,women,37990.0,3595.0,100500.0
+Industrial production managers,graduate,men,25440.0,2770.0,131500.0
+Industrial production managers,graduate,women,13840.0,2075.0,104800.0
+Industrial truck and tractor operators,less_bachelor,men,424800.0,11120.0,41480.0
+Industrial truck and tractor operators,less_bachelor,women,43720.0,3550.0,38360.0
+Industrial truck and tractor operators,bachelor,men,13150.0,1975.0,43740.0
+Industrial truck and tractor operators,bachelor_plus,men,15650.0,2190.0,43670.0
+"Information and record clerks, all other",less_bachelor,women,34570.0,3155.0,40000.0
+"Information and record clerks, all other",bachelor,women,10220.0,1815.0,46200.0
+"Information and record clerks, all other",bachelor_plus,men,9860.0,1885.0,60070.0
+"Information and record clerks, all other",bachelor_plus,women,14390.0,2165.0,49230.0
+Information security analysts,less_bachelor,men,42540.0,3855.0,102100.0
+Information security analysts,bachelor,men,59650.0,4430.0,115600.0
+Information security analysts,bachelor,women,11830.0,1950.0,106700.0
+Information security analysts,bachelor_plus,men,94810.0,5850.0,127000.0
+Information security analysts,bachelor_plus,women,20360.0,2375.0,110500.0
+Information security analysts,graduate,men,35150.0,3755.0,145700.0
+Information security analysts,graduate,women,8525.0,1655.0,115200.0
+"Inspectors, testers, sorters, samplers, and weighers",less_bachelor,men,310400.0,10520.0,55820.0
+"Inspectors, testers, sorters, samplers, and weighers",less_bachelor,women,185100.0,8220.0,39100.0
+"Inspectors, testers, sorters, samplers, and weighers",bachelor,men,56850.0,4565.0,63790.0
+"Inspectors, testers, sorters, samplers, and weighers",bachelor,women,33160.0,4055.0,55150.0
+"Inspectors, testers, sorters, samplers, and weighers",bachelor_plus,men,70830.0,4795.0,66620.0
+"Inspectors, testers, sorters, samplers, and weighers",bachelor_plus,women,45060.0,4340.0,58000.0
+"Inspectors, testers, sorters, samplers, and weighers",graduate,men,13970.0,2180.0,77710.0
+"Inspectors, testers, sorters, samplers, and weighers",graduate,women,11900.0,2135.0,61020.0
+Insulation workers,less_bachelor,men,28650.0,3450.0,50770.0
+Insurance claims and policy processing clerks,less_bachelor,men,14920.0,2340.0,50730.0
+Insurance claims and policy processing clerks,less_bachelor,women,116100.0,6710.0,41510.0
+Insurance claims and policy processing clerks,bachelor,men,12330.0,1960.0,55310.0
+Insurance claims and policy processing clerks,bachelor,women,32070.0,3375.0,48600.0
+Insurance claims and policy processing clerks,bachelor_plus,men,17450.0,2690.0,57040.0
+Insurance claims and policy processing clerks,bachelor_plus,women,39530.0,3625.0,49860.0
+Insurance sales agents,less_bachelor,men,82190.0,5425.0,58520.0
+Insurance sales agents,less_bachelor,women,145700.0,7335.0,46640.0
+Insurance sales agents,bachelor,men,107200.0,6115.0,100200.0
+Insurance sales agents,bachelor,women,64950.0,4755.0,61710.0
+Insurance sales agents,bachelor_plus,men,132500.0,6795.0,100300.0
+Insurance sales agents,bachelor_plus,women,80390.0,4980.0,61680.0
+Insurance sales agents,graduate,men,25260.0,3080.0,100700.0
+Insurance sales agents,graduate,women,15440.0,2335.0,61590.0
+Insurance underwriters,less_bachelor,men,9095.0,1990.0,65370.0
+Insurance underwriters,less_bachelor,women,35510.0,3670.0,62590.0
+Insurance underwriters,bachelor,men,30380.0,3065.0,90260.0
+Insurance underwriters,bachelor,women,28480.0,2500.0,77620.0
+Insurance underwriters,bachelor_plus,men,37900.0,3295.0,90810.0
+Insurance underwriters,bachelor_plus,women,36150.0,2895.0,81080.0
+Insurance underwriters,graduate,women,7675.0,1570.0,100400.0
+Interior designers,less_bachelor,women,12850.0,1670.0,56530.0
+Interior designers,bachelor,women,37830.0,3550.0,66780.0
+Interior designers,bachelor_plus,men,9100.0,1645.0,80960.0
+Interior designers,bachelor_plus,women,43290.0,3785.0,66870.0
+Interpreters and translators,less_bachelor,women,14870.0,2345.0,40520.0
+Interpreters and translators,bachelor,women,10370.0,1575.0,50140.0
+Interpreters and translators,bachelor_plus,men,8495.0,1845.0,55220.0
+Interpreters and translators,bachelor_plus,women,15420.0,1760.0,51400.0
+"Interviewers, except eligibility and loan",less_bachelor,men,16530.0,3020.0,35380.0
+"Interviewers, except eligibility and loan",less_bachelor,women,69560.0,5800.0,37050.0
+"Interviewers, except eligibility and loan",bachelor,women,16460.0,2380.0,43320.0
+"Interviewers, except eligibility and loan",bachelor_plus,men,9035.0,1960.0,44380.0
+"Interviewers, except eligibility and loan",bachelor_plus,women,21850.0,2780.0,45680.0
+Janitors and building cleaners,less_bachelor,men,800300.0,16600.0,38210.0
+Janitors and building cleaners,less_bachelor,women,359700.0,12060.0,29960.0
+Janitors and building cleaners,bachelor,men,47650.0,4040.0,41250.0
+Janitors and building cleaners,bachelor,women,15570.0,2210.0,28900.0
+Janitors and building cleaners,bachelor_plus,men,56160.0,4335.0,41060.0
+Janitors and building cleaners,bachelor_plus,women,19040.0,2340.0,30260.0
+Janitors and building cleaners,graduate,men,8510.0,1555.0,40450.0
+Jewelers and precious stone and metal workers,less_bachelor,men,13590.0,2100.0,47690.0
+"Judges, magistrates, and other judicial workers",bachelor_plus,men,20820.0,2655.0,150800.0
+"Judges, magistrates, and other judicial workers",bachelor_plus,women,23340.0,3555.0,111100.0
+"Judges, magistrates, and other judicial workers",graduate,men,15380.0,2315.0,164300.0
+"Judges, magistrates, and other judicial workers",graduate,women,16070.0,2510.0,141600.0
+Judicial law clerks,bachelor_plus,women,8635.0,1535.0,61960.0
+"Laborers and freight, stock, and material movers, hand",less_bachelor,men,914300.0,20460.0,40740.0
+"Laborers and freight, stock, and material movers, hand",less_bachelor,women,261400.0,9565.0,34230.0
+"Laborers and freight, stock, and material movers, hand",bachelor,men,64910.0,5665.0,40730.0
+"Laborers and freight, stock, and material movers, hand",bachelor,women,19940.0,3010.0,35200.0
+"Laborers and freight, stock, and material movers, hand",bachelor_plus,men,75440.0,5965.0,41180.0
+"Laborers and freight, stock, and material movers, hand",bachelor_plus,women,25690.0,3000.0,35470.0
+"Laborers and freight, stock, and material movers, hand",graduate,men,10530.0,1865.0,43320.0
+Landscape architects,bachelor,men,8375.0,1640.0,93860.0
+Landscape architects,bachelor_plus,men,13060.0,1905.0,89640.0
+Landscaping and groundskeeping workers,less_bachelor,men,518500.0,14410.0,35100.0
+Landscaping and groundskeeping workers,less_bachelor,women,28820.0,2915.0,29850.0
+Landscaping and groundskeeping workers,bachelor,men,33010.0,3725.0,45450.0
+Landscaping and groundskeeping workers,bachelor_plus,men,36550.0,3775.0,44670.0
+Laundry and dry-cleaning workers,less_bachelor,men,19260.0,3135.0,33030.0
+Laundry and dry-cleaning workers,less_bachelor,women,42500.0,3695.0,27140.0
+Lawyers,bachelor,men,34280.0,3300.0,152800.0
+Lawyers,bachelor,women,22610.0,2975.0,132500.0
+Lawyers,bachelor_plus,men,545700.0,12030.0,162400.0
+Lawyers,bachelor_plus,women,373000.0,11770.0,136300.0
+Lawyers,graduate,men,511400.0,11850.0,163400.0
+Lawyers,graduate,women,350400.0,11420.0,136600.0
+Legal secretaries and administrative assistants,less_bachelor,women,29610.0,3355.0,53960.0
+Legal secretaries and administrative assistants,bachelor_plus,women,9515.0,1990.0,51390.0
+"Legal support workers, all other",less_bachelor,women,11390.0,2180.0,51530.0
+"Legal support workers, all other",bachelor_plus,men,9055.0,1935.0,66860.0
+"Legal support workers, all other",bachelor_plus,women,11660.0,1990.0,69100.0
+Librarians and media collections specialists,less_bachelor,women,12510.0,2060.0,41030.0
+Librarians and media collections specialists,bachelor,men,9115.0,1630.0,53150.0
+Librarians and media collections specialists,bachelor,women,23760.0,2580.0,49620.0
+Librarians and media collections specialists,bachelor_plus,men,27620.0,3200.0,62440.0
+Librarians and media collections specialists,bachelor_plus,women,97640.0,4545.0,61880.0
+Librarians and media collections specialists,graduate,men,18510.0,2620.0,66150.0
+Librarians and media collections specialists,graduate,women,73890.0,4345.0,64020.0
+"Library assistants, clerical",less_bachelor,women,11240.0,1880.0,36620.0
+"Library assistants, clerical",bachelor,women,8150.0,1585.0,37520.0
+"Library assistants, clerical",bachelor_plus,women,11350.0,1860.0,39060.0
+Licensed practical and licensed vocational nurses,less_bachelor,men,40510.0,4280.0,56940.0
+Licensed practical and licensed vocational nurses,less_bachelor,women,329300.0,11170.0,50460.0
+Licensed practical and licensed vocational nurses,bachelor,women,13570.0,2655.0,53970.0
+Licensed practical and licensed vocational nurses,bachelor_plus,women,17050.0,3100.0,54260.0
+Loan interviewers and clerks,less_bachelor,men,14020.0,2275.0,57890.0
+Loan interviewers and clerks,less_bachelor,women,69400.0,5710.0,54280.0
+Loan interviewers and clerks,bachelor,men,11100.0,2025.0,58960.0
+Loan interviewers and clerks,bachelor,women,20240.0,2310.0,56360.0
+Loan interviewers and clerks,bachelor_plus,men,12430.0,2130.0,58710.0
+Loan interviewers and clerks,bachelor_plus,women,23470.0,2745.0,55570.0
+Locksmiths and safe repairers,less_bachelor,men,15460.0,2455.0,50270.0
+Locomotive engineers and operators,less_bachelor,men,33600.0,3260.0,87170.0
+Lodging managers,less_bachelor,men,22600.0,2425.0,54900.0
+Lodging managers,less_bachelor,women,22350.0,2750.0,48090.0
+Lodging managers,bachelor,men,18880.0,2505.0,74630.0
+Lodging managers,bachelor,women,13660.0,2055.0,65530.0
+Lodging managers,bachelor_plus,men,24530.0,2990.0,80450.0
+Lodging managers,bachelor_plus,women,18040.0,2355.0,66470.0
+Logging workers,less_bachelor,men,29150.0,2635.0,41870.0
+Logisticians,less_bachelor,men,48750.0,4380.0,56950.0
+Logisticians,less_bachelor,women,30140.0,3345.0,49640.0
+Logisticians,bachelor,men,33200.0,3340.0,69190.0
+Logisticians,bachelor,women,19970.0,2965.0,65190.0
+Logisticians,bachelor_plus,men,45010.0,3640.0,78170.0
+Logisticians,bachelor_plus,women,26900.0,3170.0,66560.0
+Logisticians,graduate,men,11820.0,2105.0,104300.0
+Machine feeders and offbearers,less_bachelor,men,7675.0,1615.0,46790.0
+Machinists,less_bachelor,men,249500.0,8805.0,56390.0
+Machinists,less_bachelor,women,11110.0,1860.0,36840.0
+Machinists,bachelor,men,10510.0,1880.0,59100.0
+Machinists,bachelor_plus,men,11270.0,1945.0,59420.0
+Magnetic resonance imaging technologists,less_bachelor,men,6910.0,1270.0,79940.0
+Magnetic resonance imaging technologists,less_bachelor,women,14080.0,1945.0,78880.0
+Magnetic resonance imaging technologists,bachelor,men,9480.0,2070.0,103800.0
+Magnetic resonance imaging technologists,bachelor,women,7310.0,1370.0,78630.0
+Magnetic resonance imaging technologists,bachelor_plus,men,12280.0,2200.0,104600.0
+Magnetic resonance imaging technologists,bachelor_plus,women,9290.0,1455.0,83010.0
+Maids and housekeeping cleaners,less_bachelor,men,85060.0,5005.0,32000.0
+Maids and housekeeping cleaners,less_bachelor,women,439900.0,12500.0,27480.0
+Maids and housekeeping cleaners,bachelor,women,21400.0,3230.0,29200.0
+Maids and housekeeping cleaners,bachelor_plus,women,25870.0,3560.0,29640.0
+"Mail clerks and mail machine operators, except postal service",less_bachelor,men,13230.0,2540.0,40740.0
+"Mail clerks and mail machine operators, except postal service",less_bachelor,women,13240.0,2065.0,35240.0
+"Maintenance and repair workers, general",less_bachelor,men,512200.0,13180.0,53830.0
+"Maintenance and repair workers, general",less_bachelor,women,19110.0,2690.0,39450.0
+"Maintenance and repair workers, general",bachelor,men,39530.0,3780.0,58760.0
+"Maintenance and repair workers, general",bachelor_plus,men,45360.0,4075.0,59410.0
+"Maintenance workers, machinery",less_bachelor,men,18100.0,2290.0,62750.0
+Management analysts,less_bachelor,men,81960.0,5465.0,84650.0
+Management analysts,less_bachelor,women,72990.0,4495.0,72710.0
+Management analysts,bachelor,men,205900.0,6485.0,105900.0
+Management analysts,bachelor,women,146700.0,7515.0,92200.0
+Management analysts,bachelor_plus,men,345600.0,9340.0,114800.0
+Management analysts,bachelor_plus,women,262400.0,8155.0,100300.0
+Management analysts,graduate,men,139700.0,7475.0,132000.0
+Management analysts,graduate,women,115700.0,5405.0,107000.0
+"Managers, all other",less_bachelor,men,942300.0,19020.0,78090.0
+"Managers, all other",less_bachelor,women,503400.0,12440.0,58650.0
+"Managers, all other",bachelor,men,805300.0,17840.0,116200.0
+"Managers, all other",bachelor,women,553900.0,14350.0,91020.0
+"Managers, all other",bachelor_plus,men,1310000.0,23030.0,128200.0
+"Managers, all other",bachelor_plus,women,901800.0,19060.0,101000.0
+"Managers, all other",graduate,men,504400.0,14340.0,151100.0
+"Managers, all other",graduate,women,347900.0,10720.0,117000.0
+Manicurists and pedicurists,less_bachelor,men,32860.0,4040.0,32310.0
+Manicurists and pedicurists,less_bachelor,women,105300.0,6040.0,29120.0
+Manicurists and pedicurists,bachelor,women,9995.0,1925.0,31090.0
+Manicurists and pedicurists,bachelor_plus,women,11860.0,2015.0,31170.0
+Marine engineers and naval architects,bachelor_plus,men,9395.0,2120.0,105900.0
+Market research analysts and marketing specialists,less_bachelor,men,24400.0,3230.0,68620.0
+Market research analysts and marketing specialists,less_bachelor,women,29740.0,3200.0,60890.0
+Market research analysts and marketing specialists,bachelor,men,77990.0,5365.0,87870.0
+Market research analysts and marketing specialists,bachelor,women,112400.0,6140.0,77890.0
+Market research analysts and marketing specialists,bachelor_plus,men,112000.0,5955.0,101300.0
+Market research analysts and marketing specialists,bachelor_plus,women,155700.0,7895.0,83170.0
+Market research analysts and marketing specialists,graduate,men,34030.0,3405.0,134000.0
+Market research analysts and marketing specialists,graduate,women,43340.0,4075.0,104700.0
+Marketing managers,less_bachelor,men,34130.0,3505.0,76700.0
+Marketing managers,less_bachelor,women,43140.0,3205.0,64630.0
+Marketing managers,bachelor,men,111600.0,5920.0,103800.0
+Marketing managers,bachelor,women,191600.0,8015.0,87010.0
+Marketing managers,bachelor_plus,men,166400.0,7210.0,118100.0
+Marketing managers,bachelor_plus,women,268800.0,9425.0,92850.0
+Marketing managers,graduate,men,54820.0,4040.0,151400.0
+Marketing managers,graduate,women,77130.0,5300.0,111900.0
+Marriage and family therapists,bachelor_plus,women,9565.0,1755.0,63900.0
+Marriage and family therapists,graduate,women,7865.0,1515.0,73110.0
+Massage therapists,less_bachelor,men,9460.0,2225.0,42030.0
+Massage therapists,less_bachelor,women,29470.0,3050.0,36060.0
+Massage therapists,bachelor,women,7865.0,1600.0,42830.0
+Massage therapists,bachelor_plus,women,10300.0,1840.0,44240.0
+Materials engineers,less_bachelor,men,5730.0,990.0,89620.0
+Materials engineers,bachelor,men,18740.0,2360.0,97900.0
+Materials engineers,bachelor_plus,men,28040.0,2805.0,101100.0
+Materials engineers,graduate,men,9300.0,1450.0,107400.0
+Mechanical engineers,less_bachelor,men,50790.0,3865.0,86070.0
+Mechanical engineers,bachelor,men,153500.0,6105.0,99520.0
+Mechanical engineers,bachelor,women,16080.0,2475.0,93010.0
+Mechanical engineers,bachelor_plus,men,219200.0,7905.0,103100.0
+Mechanical engineers,bachelor_plus,women,25330.0,2665.0,96740.0
+Mechanical engineers,graduate,men,65750.0,4885.0,114900.0
+Mechanical engineers,graduate,women,9245.0,1675.0,111800.0
+Medical and health services managers,less_bachelor,men,57770.0,5250.0,64830.0
+Medical and health services managers,less_bachelor,women,181800.0,8005.0,60500.0
+Medical and health services managers,bachelor,men,70090.0,4500.0,91830.0
+Medical and health services managers,bachelor,women,162200.0,7460.0,83090.0
+Medical and health services managers,bachelor_plus,men,133200.0,6410.0,106100.0
+Medical and health services managers,bachelor_plus,women,312000.0,10430.0,91910.0
+Medical and health services managers,graduate,men,63090.0,4895.0,125400.0
+Medical and health services managers,graduate,women,149700.0,7200.0,102900.0
+Medical assistants,less_bachelor,men,23040.0,3055.0,39850.0
+Medical assistants,less_bachelor,women,319500.0,12090.0,37330.0
+Medical assistants,bachelor,men,8360.0,1580.0,51180.0
+Medical assistants,bachelor,women,34630.0,3190.0,40670.0
+Medical assistants,bachelor_plus,men,11510.0,1850.0,50510.0
+Medical assistants,bachelor_plus,women,44490.0,3640.0,41330.0
+Medical assistants,graduate,women,9865.0,1920.0,45040.0
+Medical records specialists,less_bachelor,women,106800.0,6205.0,46380.0
+Medical records specialists,bachelor,women,23010.0,2625.0,51910.0
+Medical records specialists,bachelor_plus,men,8275.0,1595.0,67590.0
+Medical records specialists,bachelor_plus,women,30010.0,3100.0,52090.0
+Medical scientists,bachelor,men,13070.0,2040.0,83650.0
+Medical scientists,bachelor,women,22940.0,2925.0,77580.0
+Medical scientists,bachelor_plus,men,54480.0,4130.0,88020.0
+Medical scientists,bachelor_plus,women,72820.0,5280.0,82960.0
+Medical scientists,graduate,men,41410.0,3215.0,90820.0
+Medical scientists,graduate,women,49880.0,3790.0,87600.0
+Medical secretaries and administrative assistants,less_bachelor,women,65100.0,4790.0,40700.0
+Medical secretaries and administrative assistants,bachelor,women,14260.0,2070.0,43900.0
+Medical secretaries and administrative assistants,bachelor_plus,women,17430.0,2295.0,43650.0
+Medical transcriptionists,less_bachelor,women,7485.0,1545.0,38350.0
+"Meeting, convention, and event planners",less_bachelor,women,19960.0,3235.0,55240.0
+"Meeting, convention, and event planners",bachelor,men,10280.0,1920.0,68180.0
+"Meeting, convention, and event planners",bachelor,women,45030.0,4570.0,62960.0
+"Meeting, convention, and event planners",bachelor_plus,men,13200.0,2200.0,68400.0
+"Meeting, convention, and event planners",bachelor_plus,women,53990.0,4365.0,63710.0
+"Meeting, convention, and event planners",graduate,women,8960.0,1900.0,80150.0
+Mental health and substance abuse social workers,bachelor_plus,women,17860.0,2365.0,71910.0
+Mental health and substance abuse social workers,graduate,women,14400.0,2105.0,75970.0
+Mental health counselors,bachelor,women,16590.0,2470.0,46950.0
+Mental health counselors,bachelor_plus,men,23560.0,2670.0,60410.0
+Mental health counselors,bachelor_plus,women,76000.0,5290.0,58520.0
+Mental health counselors,graduate,men,16150.0,2260.0,63610.0
+Mental health counselors,graduate,women,59410.0,4195.0,61730.0
+"Metal furnace operators, tenders, pourers, and casters",less_bachelor,men,13830.0,1740.0,56830.0
+"Meter readers, utilities",less_bachelor,men,10470.0,1805.0,49460.0
+Millwrights,less_bachelor,men,33950.0,3070.0,78100.0
+Miscellaneous agricultural workers,less_bachelor,men,265900.0,9980.0,35640.0
+Miscellaneous agricultural workers,less_bachelor,women,61950.0,4440.0,26790.0
+Miscellaneous agricultural workers,bachelor,men,20660.0,2985.0,41290.0
+Miscellaneous agricultural workers,bachelor,women,6160.0,1165.0,35250.0
+Miscellaneous agricultural workers,bachelor_plus,men,24640.0,2995.0,40640.0
+Miscellaneous agricultural workers,bachelor_plus,women,8690.0,1530.0,34060.0
+Miscellaneous construction and related workers,less_bachelor,men,24970.0,3205.0,43920.0
+Miscellaneous health technologists and technicians,less_bachelor,men,24590.0,3650.0,50240.0
+Miscellaneous health technologists and technicians,less_bachelor,women,50680.0,4730.0,41490.0
+Miscellaneous health technologists and technicians,bachelor,men,9935.0,1745.0,60830.0
+Miscellaneous health technologists and technicians,bachelor,women,12460.0,2360.0,64810.0
+Miscellaneous health technologists and technicians,bachelor_plus,men,15230.0,2140.0,71930.0
+Miscellaneous health technologists and technicians,bachelor_plus,women,18080.0,2610.0,70300.0
+Miscellaneous plant and system operators,less_bachelor,men,32290.0,3525.0,84900.0
+Miscellaneous social scientists and related workers,bachelor,men,7725.0,1715.0,82870.0
+Miscellaneous social scientists and related workers,bachelor_plus,men,18050.0,2670.0,92460.0
+Miscellaneous social scientists and related workers,bachelor_plus,women,16860.0,2010.0,89410.0
+Miscellaneous social scientists and related workers,graduate,men,10320.0,1890.0,103600.0
+Miscellaneous social scientists and related workers,graduate,women,11280.0,1545.0,90270.0
+"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",less_bachelor,men,44230.0,4065.0,38850.0
+"Molders and molding machine setters, operators, and tenders, metal and plastic",less_bachelor,men,21410.0,2435.0,47720.0
+"Molders, shapers, and casters, except metal and plastic",less_bachelor,men,13710.0,2035.0,41200.0
+"Morticians, undertakers, and funeral arrangers",less_bachelor,men,10680.0,1785.0,64230.0
+"Morticians, undertakers, and funeral arrangers",bachelor,men,6990.0,1770.0,77390.0
+"Morticians, undertakers, and funeral arrangers",bachelor_plus,men,7975.0,1815.0,76870.0
+"Motor vehicle operators, all other",less_bachelor,men,48650.0,4120.0,39120.0
+"Motor vehicle operators, all other",less_bachelor,women,13530.0,2620.0,34240.0
+Music directors and composers,bachelor_plus,men,9880.0,1635.0,60940.0
+Musicians and singers,less_bachelor,men,12250.0,1935.0,51130.0
+Musicians and singers,bachelor,men,10380.0,1995.0,53530.0
+Musicians and singers,bachelor_plus,men,16930.0,2335.0,60310.0
+Natural sciences managers,bachelor,women,9570.0,2195.0,77030.0
+Natural sciences managers,bachelor_plus,men,12740.0,1895.0,89950.0
+Natural sciences managers,bachelor_plus,women,20630.0,2885.0,83220.0
+Natural sciences managers,graduate,women,11060.0,1850.0,87070.0
+Network and computer systems administrators,less_bachelor,men,83290.0,5480.0,81690.0
+Network and computer systems administrators,less_bachelor,women,13900.0,2505.0,64530.0
+Network and computer systems administrators,bachelor,men,70680.0,4240.0,90490.0
+Network and computer systems administrators,bachelor,women,12940.0,1975.0,85380.0
+Network and computer systems administrators,bachelor_plus,men,89650.0,5005.0,92180.0
+Network and computer systems administrators,bachelor_plus,women,20120.0,2280.0,86700.0
+Network and computer systems administrators,graduate,men,18970.0,2535.0,102400.0
+Network and computer systems administrators,graduate,women,7180.0,1325.0,90780.0
+"News analysts, reporters, and journalists",bachelor,men,19750.0,2630.0,70300.0
+"News analysts, reporters, and journalists",bachelor,women,18710.0,2470.0,70870.0
+"News analysts, reporters, and journalists",bachelor_plus,men,28480.0,3690.0,74180.0
+"News analysts, reporters, and journalists",bachelor_plus,women,24890.0,2535.0,75360.0
+Nuclear medicine technologists and medical dosimetrists,bachelor,men,8905.0,1590.0,109200.0
+Nuclear medicine technologists and medical dosimetrists,bachelor_plus,men,12520.0,1985.0,124000.0
+Nuclear medicine technologists and medical dosimetrists,bachelor_plus,women,9415.0,1660.0,103200.0
+Nurse anesthetists,bachelor_plus,men,15540.0,1975.0,208500.0
+Nurse anesthetists,bachelor_plus,women,19220.0,2550.0,198600.0
+Nurse anesthetists,graduate,men,13600.0,1900.0,208700.0
+Nurse anesthetists,graduate,women,17940.0,2400.0,199700.0
+Nurse practitioners,bachelor,women,14330.0,1810.0,109800.0
+Nurse practitioners,bachelor_plus,men,27940.0,2855.0,126800.0
+Nurse practitioners,bachelor_plus,women,183100.0,6780.0,115000.0
+Nurse practitioners,graduate,men,25770.0,2675.0,127000.0
+Nurse practitioners,graduate,women,168800.0,6400.0,115300.0
+Nursing assistants,less_bachelor,men,69700.0,5205.0,39810.0
+Nursing assistants,less_bachelor,women,538900.0,15910.0,34340.0
+Nursing assistants,bachelor,men,11860.0,2025.0,43300.0
+Nursing assistants,bachelor,women,36070.0,3515.0,38880.0
+Nursing assistants,bachelor_plus,men,14070.0,2110.0,43420.0
+Nursing assistants,bachelor_plus,women,44810.0,3825.0,39800.0
+Nursing assistants,graduate,women,8745.0,1835.0,42040.0
+Occupational health and safety specialists and technicians,less_bachelor,men,27380.0,3370.0,72940.0
+Occupational health and safety specialists and technicians,less_bachelor,women,8890.0,1960.0,59080.0
+Occupational health and safety specialists and technicians,bachelor,men,15330.0,2335.0,78720.0
+Occupational health and safety specialists and technicians,bachelor,women,10520.0,1815.0,71050.0
+Occupational health and safety specialists and technicians,bachelor_plus,men,23160.0,2885.0,85150.0
+Occupational health and safety specialists and technicians,bachelor_plus,women,16670.0,2275.0,73300.0
+Occupational health and safety specialists and technicians,graduate,men,7830.0,1475.0,97350.0
+Occupational therapists,bachelor,women,26540.0,4075.0,80440.0
+Occupational therapists,bachelor_plus,men,13260.0,2325.0,92370.0
+Occupational therapists,bachelor_plus,women,83050.0,5915.0,76800.0
+Occupational therapists,graduate,men,8345.0,1760.0,90890.0
+Occupational therapists,graduate,women,56510.0,3970.0,75730.0
+Occupational therapy assistants and aides,less_bachelor,women,18150.0,2290.0,42320.0
+"Office and administrative support workers, all other",less_bachelor,men,63510.0,4960.0,52770.0
+"Office and administrative support workers, all other",less_bachelor,women,177600.0,7095.0,43400.0
+"Office and administrative support workers, all other",bachelor,men,35710.0,3370.0,57030.0
+"Office and administrative support workers, all other",bachelor,women,84270.0,4600.0,50410.0
+"Office and administrative support workers, all other",bachelor_plus,men,46100.0,4190.0,58300.0
+"Office and administrative support workers, all other",bachelor_plus,women,120300.0,5410.0,52570.0
+"Office and administrative support workers, all other",graduate,men,10390.0,2050.0,64610.0
+"Office and administrative support workers, all other",graduate,women,36070.0,3075.0,58330.0
+"Office clerks, general",less_bachelor,men,82020.0,6385.0,43990.0
+"Office clerks, general",less_bachelor,women,457400.0,11290.0,40540.0
+"Office clerks, general",bachelor,men,29740.0,2785.0,51480.0
+"Office clerks, general",bachelor,women,100000.0,5815.0,45650.0
+"Office clerks, general",bachelor_plus,men,38270.0,3215.0,52510.0
+"Office clerks, general",bachelor_plus,women,122400.0,6790.0,45380.0
+"Office clerks, general",graduate,men,8525.0,1780.0,59350.0
+"Office clerks, general",graduate,women,22420.0,2940.0,44370.0
+Operations research analysts,less_bachelor,men,16530.0,2455.0,77120.0
+Operations research analysts,less_bachelor,women,21370.0,2515.0,72950.0
+Operations research analysts,bachelor,men,35790.0,3160.0,90680.0
+Operations research analysts,bachelor,women,34940.0,3305.0,87360.0
+Operations research analysts,bachelor_plus,men,65280.0,4875.0,100400.0
+Operations research analysts,bachelor_plus,women,62000.0,4380.0,92000.0
+Operations research analysts,graduate,men,29480.0,3205.0,114000.0
+Operations research analysts,graduate,women,27060.0,3115.0,101500.0
+"Opticians, dispensing",less_bachelor,men,9230.0,1680.0,48410.0
+"Opticians, dispensing",less_bachelor,women,21470.0,2585.0,42600.0
+Optometrists,bachelor_plus,men,15620.0,1910.0,136600.0
+Optometrists,bachelor_plus,women,13000.0,1785.0,123600.0
+Optometrists,graduate,men,15620.0,1910.0,136600.0
+Optometrists,graduate,women,13000.0,1785.0,123600.0
+Order clerks,less_bachelor,men,20970.0,2945.0,45780.0
+Order clerks,less_bachelor,women,23870.0,3060.0,40130.0
+Orderlies and psychiatric aides,less_bachelor,men,19750.0,2965.0,36800.0
+Orderlies and psychiatric aides,less_bachelor,women,13640.0,2300.0,36460.0
+Other assemblers and fabricators,less_bachelor,men,403200.0,9930.0,44050.0
+Other assemblers and fabricators,less_bachelor,women,228000.0,9175.0,37490.0
+Other assemblers and fabricators,bachelor,men,28330.0,3500.0,45640.0
+Other assemblers and fabricators,bachelor,women,14230.0,2195.0,40960.0
+Other assemblers and fabricators,bachelor_plus,men,32980.0,3785.0,47010.0
+Other assemblers and fabricators,bachelor_plus,women,16240.0,2425.0,40540.0
+Other community and social service specialists,less_bachelor,men,9040.0,1620.0,53100.0
+Other community and social service specialists,less_bachelor,women,17400.0,2815.0,42160.0
+Other community and social service specialists,bachelor,men,8470.0,1740.0,62700.0
+Other community and social service specialists,bachelor,women,21360.0,2650.0,51620.0
+Other community and social service specialists,bachelor_plus,men,14410.0,2345.0,64130.0
+Other community and social service specialists,bachelor_plus,women,36590.0,3555.0,56320.0
+Other community and social service specialists,graduate,women,15230.0,2270.0,62180.0
+Other designers,less_bachelor,men,79930.0,4865.0,76330.0
+Other designers,less_bachelor,women,28050.0,3155.0,52860.0
+Other designers,bachelor,men,62030.0,4860.0,86630.0
+Other designers,bachelor,women,54420.0,3160.0,77300.0
+Other designers,bachelor_plus,men,84390.0,4600.0,91070.0
+Other designers,bachelor_plus,women,77030.0,4735.0,79470.0
+Other designers,graduate,men,22360.0,2375.0,104000.0
+Other designers,graduate,women,22610.0,2860.0,84360.0
+Other drafters,less_bachelor,men,44480.0,4090.0,64280.0
+Other drafters,less_bachelor,women,8580.0,1605.0,53250.0
+Other drafters,bachelor,men,11010.0,1865.0,60080.0
+Other drafters,bachelor_plus,men,12610.0,2115.0,58890.0
+Other educational instruction and library workers,less_bachelor,women,14570.0,2060.0,40030.0
+Other educational instruction and library workers,bachelor,men,9810.0,1875.0,70470.0
+Other educational instruction and library workers,bachelor,women,25560.0,2500.0,53860.0
+Other educational instruction and library workers,bachelor_plus,men,23160.0,2600.0,78320.0
+Other educational instruction and library workers,bachelor_plus,women,71480.0,4685.0,67040.0
+Other educational instruction and library workers,graduate,men,13350.0,2245.0,79650.0
+Other educational instruction and library workers,graduate,women,45920.0,3720.0,73360.0
+"Other engineering technologists and technicians, except drafters",less_bachelor,men,227700.0,8935.0,66890.0
+"Other engineering technologists and technicians, except drafters",less_bachelor,women,45810.0,3440.0,48920.0
+"Other engineering technologists and technicians, except drafters",bachelor,men,56800.0,4850.0,67350.0
+"Other engineering technologists and technicians, except drafters",bachelor,women,17860.0,2490.0,63130.0
+"Other engineering technologists and technicians, except drafters",bachelor_plus,men,70670.0,5370.0,70980.0
+"Other engineering technologists and technicians, except drafters",bachelor_plus,women,23740.0,2590.0,64380.0
+"Other engineering technologists and technicians, except drafters",graduate,men,13870.0,2085.0,90780.0
+Other entertainment attendants and related workers,less_bachelor,men,16400.0,2400.0,36150.0
+Other entertainment attendants and related workers,less_bachelor,women,11530.0,2140.0,34700.0
+Other extraction workers,less_bachelor,men,35280.0,3725.0,60570.0
+Other financial specialists,less_bachelor,women,20520.0,2635.0,55190.0
+Other financial specialists,bachelor,men,17350.0,2340.0,98800.0
+Other financial specialists,bachelor,women,16760.0,2165.0,76200.0
+Other financial specialists,bachelor_plus,men,31370.0,3125.0,118800.0
+Other financial specialists,bachelor_plus,women,27450.0,2955.0,80580.0
+Other financial specialists,graduate,men,14030.0,2085.0,156000.0
+Other financial specialists,graduate,women,10690.0,1755.0,84540.0
+Other grounds maintenance workers,less_bachelor,men,8640.0,1610.0,40230.0
+Other healthcare practitioners and technical occupations,less_bachelor,women,17900.0,2865.0,50090.0
+Other healthcare practitioners and technical occupations,bachelor,men,10250.0,1750.0,62650.0
+Other healthcare practitioners and technical occupations,bachelor,women,17050.0,2530.0,60790.0
+Other healthcare practitioners and technical occupations,bachelor_plus,men,22920.0,2875.0,67170.0
+Other healthcare practitioners and technical occupations,bachelor_plus,women,38430.0,4005.0,66620.0
+Other healthcare practitioners and technical occupations,graduate,men,12670.0,2345.0,74990.0
+Other healthcare practitioners and technical occupations,graduate,women,21390.0,3000.0,73880.0
+Other healthcare support workers,less_bachelor,men,29760.0,3150.0,48520.0
+Other healthcare support workers,less_bachelor,women,59930.0,4440.0,37880.0
+Other healthcare support workers,bachelor,women,15010.0,2055.0,50780.0
+Other healthcare support workers,bachelor_plus,men,12330.0,2305.0,60260.0
+Other healthcare support workers,bachelor_plus,women,21580.0,2805.0,53960.0
+"Other installation, maintenance, and repair workers",less_bachelor,men,104400.0,6075.0,48670.0
+"Other installation, maintenance, and repair workers",bachelor,men,11070.0,1555.0,62060.0
+"Other installation, maintenance, and repair workers",bachelor_plus,men,12740.0,1695.0,59770.0
+"Other life, physical, and social science technicians",less_bachelor,men,39550.0,3380.0,60620.0
+"Other life, physical, and social science technicians",less_bachelor,women,29630.0,3230.0,48960.0
+"Other life, physical, and social science technicians",bachelor,men,23530.0,2765.0,49920.0
+"Other life, physical, and social science technicians",bachelor,women,29590.0,3640.0,51820.0
+"Other life, physical, and social science technicians",bachelor_plus,men,32390.0,3195.0,54300.0
+"Other life, physical, and social science technicians",bachelor_plus,women,42200.0,4435.0,54440.0
+"Other life, physical, and social science technicians",graduate,men,8865.0,1505.0,73590.0
+"Other life, physical, and social science technicians",graduate,women,12610.0,2145.0,68190.0
+Other material moving workers,less_bachelor,men,38410.0,3960.0,46890.0
+Other mathematical science occupations,less_bachelor,men,19800.0,2805.0,66880.0
+Other mathematical science occupations,less_bachelor,women,23990.0,2760.0,68290.0
+Other mathematical science occupations,bachelor,men,75680.0,5175.0,96130.0
+Other mathematical science occupations,bachelor,women,51280.0,4205.0,80500.0
+Other mathematical science occupations,bachelor_plus,men,155000.0,7805.0,105300.0
+Other mathematical science occupations,bachelor_plus,women,105400.0,6890.0,89950.0
+Other mathematical science occupations,graduate,men,79320.0,5570.0,118800.0
+Other mathematical science occupations,graduate,women,54130.0,4605.0,99890.0
+Other metal workers and plastic workers,less_bachelor,men,221000.0,10470.0,47400.0
+Other metal workers and plastic workers,less_bachelor,women,59520.0,5095.0,37950.0
+Other metal workers and plastic workers,bachelor,men,9370.0,1800.0,48410.0
+Other metal workers and plastic workers,bachelor_plus,men,11050.0,2010.0,48480.0
+Other physicians,bachelor_plus,men,382200.0,12310.0,250200.0
+Other physicians,bachelor_plus,women,275900.0,10000.0,204600.0
+Other physicians,graduate,men,382200.0,12310.0,250200.0
+Other physicians,graduate,women,275900.0,10000.0,204600.0
+Other production workers,less_bachelor,men,628400.0,15590.0,46870.0
+Other production workers,less_bachelor,women,250200.0,10470.0,35390.0
+Other production workers,bachelor,men,49590.0,4615.0,50730.0
+Other production workers,bachelor,women,20280.0,2510.0,45190.0
+Other production workers,bachelor_plus,men,59820.0,4770.0,51720.0
+Other production workers,bachelor_plus,women,26500.0,2900.0,46030.0
+Other production workers,graduate,men,10230.0,2070.0,63080.0
+Other protective service workers,less_bachelor,men,7385.0,1385.0,48440.0
+Other protective service workers,bachelor_plus,men,7245.0,1440.0,56350.0
+Other psychologists,bachelor,women,11020.0,2400.0,70810.0
+Other psychologists,bachelor_plus,men,24470.0,2785.0,106000.0
+Other psychologists,bachelor_plus,women,70090.0,4755.0,89590.0
+Other psychologists,graduate,men,22260.0,2710.0,107900.0
+Other psychologists,graduate,women,59070.0,4120.0,96240.0
+Other rail transportation workers,less_bachelor,men,14050.0,2875.0,74620.0
+Other teachers and instructors,less_bachelor,men,77490.0,5360.0,62100.0
+Other teachers and instructors,less_bachelor,women,66770.0,5175.0,42770.0
+Other teachers and instructors,bachelor,men,49560.0,4310.0,65630.0
+Other teachers and instructors,bachelor,women,67170.0,4845.0,51260.0
+Other teachers and instructors,bachelor_plus,men,80230.0,5735.0,71020.0
+Other teachers and instructors,bachelor_plus,women,121000.0,6580.0,55720.0
+Other teachers and instructors,graduate,men,30680.0,3885.0,75640.0
+Other teachers and instructors,graduate,women,53790.0,4140.0,64980.0
+Other transportation workers,less_bachelor,men,18030.0,2530.0,57490.0
+Other woodworkers,less_bachelor,men,16020.0,2480.0,47620.0
+Packaging and filling machine operators and tenders,less_bachelor,men,72290.0,4990.0,41420.0
+Packaging and filling machine operators and tenders,less_bachelor,women,84650.0,5955.0,33280.0
+"Packers and packagers, hand",less_bachelor,men,108000.0,6290.0,35080.0
+"Packers and packagers, hand",less_bachelor,women,147800.0,8170.0,31350.0
+"Packers and packagers, hand",bachelor,women,11500.0,2195.0,31910.0
+"Packers and packagers, hand",bachelor_plus,women,13310.0,2340.0,31920.0
+Painters and paperhangers,less_bachelor,men,289700.0,11850.0,40790.0
+Painters and paperhangers,less_bachelor,women,21150.0,3275.0,31500.0
+Painters and paperhangers,bachelor,men,14410.0,2425.0,46860.0
+Painters and paperhangers,bachelor_plus,men,17630.0,2735.0,48170.0
+Painting workers,less_bachelor,men,90260.0,6280.0,48230.0
+Painting workers,less_bachelor,women,8470.0,1650.0,43300.0
+"Paper goods machine setters, operators, and tenders",less_bachelor,men,10700.0,2040.0,50420.0
+Paralegals and legal assistants,less_bachelor,men,18540.0,3490.0,51120.0
+Paralegals and legal assistants,less_bachelor,women,163300.0,7420.0,57410.0
+Paralegals and legal assistants,bachelor,men,23850.0,2875.0,61310.0
+Paralegals and legal assistants,bachelor,women,100200.0,6815.0,60910.0
+Paralegals and legal assistants,bachelor_plus,men,30650.0,3230.0,62140.0
+Paralegals and legal assistants,bachelor_plus,women,124700.0,7140.0,60900.0
+Paralegals and legal assistants,graduate,women,24540.0,3080.0,60850.0
+Paramedics,less_bachelor,men,46390.0,3730.0,67850.0
+Paramedics,less_bachelor,women,20130.0,3250.0,57080.0
+Paramedics,bachelor,men,10700.0,1860.0,69980.0
+Paramedics,bachelor_plus,men,16660.0,2455.0,78840.0
+Paramedics,bachelor_plus,women,5835.0,1215.0,73070.0
+Parking attendants,less_bachelor,men,21980.0,2950.0,34460.0
+Parts salespersons,less_bachelor,men,64960.0,5470.0,47790.0
+Parts salespersons,less_bachelor,women,11540.0,2005.0,40420.0
+Payroll and timekeeping clerks,less_bachelor,women,72020.0,4395.0,50950.0
+Payroll and timekeeping clerks,bachelor,women,21290.0,2275.0,53090.0
+Payroll and timekeeping clerks,bachelor_plus,women,26450.0,2615.0,53760.0
+Personal care aides,less_bachelor,men,106500.0,6795.0,34310.0
+Personal care aides,less_bachelor,women,432000.0,13710.0,31820.0
+Personal care aides,bachelor,men,18480.0,2930.0,38600.0
+Personal care aides,bachelor,women,48940.0,3320.0,36640.0
+Personal care aides,bachelor_plus,men,25390.0,3060.0,40860.0
+Personal care aides,bachelor_plus,women,63950.0,4285.0,38100.0
+Personal care aides,graduate,women,15020.0,2545.0,42060.0
+"Personal care and service workers, all other",less_bachelor,men,18660.0,3820.0,32360.0
+"Personal care and service workers, all other",less_bachelor,women,17630.0,3135.0,37250.0
+"Personal care and service workers, all other",bachelor_plus,women,8285.0,1850.0,42400.0
+Personal financial advisors,less_bachelor,men,32570.0,4015.0,90310.0
+Personal financial advisors,less_bachelor,women,35010.0,3050.0,55000.0
+Personal financial advisors,bachelor,men,149500.0,7945.0,144100.0
+Personal financial advisors,bachelor,women,55410.0,4825.0,97130.0
+Personal financial advisors,bachelor_plus,men,217000.0,8875.0,148600.0
+Personal financial advisors,bachelor_plus,women,81350.0,5885.0,101100.0
+Personal financial advisors,graduate,men,67510.0,4515.0,157000.0
+Personal financial advisors,graduate,women,25940.0,2480.0,106800.0
+"Personal service managers, all other",less_bachelor,men,12500.0,2360.0,62890.0
+"Personal service managers, all other",less_bachelor,women,24410.0,3440.0,45300.0
+"Personal service managers, all other",bachelor,women,7055.0,1195.0,57820.0
+"Personal service managers, all other",bachelor_plus,women,8955.0,1465.0,55650.0
+Pest control workers,less_bachelor,men,62110.0,5650.0,43920.0
+Petroleum engineers,bachelor,men,9460.0,1520.0,163900.0
+Petroleum engineers,bachelor_plus,men,14370.0,2520.0,166200.0
+Pharmacists,bachelor,men,22130.0,3015.0,138600.0
+Pharmacists,bachelor,women,27550.0,2590.0,127900.0
+Pharmacists,bachelor_plus,men,108700.0,5425.0,137200.0
+Pharmacists,bachelor_plus,women,146700.0,6370.0,129100.0
+Pharmacists,graduate,men,86600.0,4695.0,136700.0
+Pharmacists,graduate,women,119200.0,5855.0,129400.0
+Pharmacy aides,less_bachelor,women,11440.0,2425.0,38980.0
+Pharmacy technicians,less_bachelor,men,42990.0,3740.0,42550.0
+Pharmacy technicians,less_bachelor,women,149700.0,6425.0,39090.0
+Pharmacy technicians,bachelor,men,12000.0,2035.0,41570.0
+Pharmacy technicians,bachelor,women,29140.0,3635.0,42120.0
+Pharmacy technicians,bachelor_plus,men,14780.0,2305.0,41640.0
+Pharmacy technicians,bachelor_plus,women,35740.0,4135.0,41650.0
+Phlebotomists,less_bachelor,men,12710.0,2320.0,43710.0
+Phlebotomists,less_bachelor,women,62930.0,5025.0,39110.0
+Photographers,less_bachelor,men,20960.0,3020.0,48270.0
+Photographers,less_bachelor,women,14740.0,2025.0,36450.0
+Photographers,bachelor,men,20010.0,2050.0,60680.0
+Photographers,bachelor,women,14650.0,2060.0,52020.0
+Photographers,bachelor_plus,men,24050.0,2215.0,60530.0
+Photographers,bachelor_plus,women,17690.0,2215.0,51960.0
+Photographic process workers and processing machine operators,bachelor_plus,men,7755.0,1315.0,101200.0
+"Physical scientists, all other",bachelor,men,44270.0,3345.0,84940.0
+"Physical scientists, all other",bachelor,women,42080.0,3840.0,73920.0
+"Physical scientists, all other",bachelor_plus,men,173100.0,7570.0,101300.0
+"Physical scientists, all other",bachelor_plus,women,136700.0,6585.0,83390.0
+"Physical scientists, all other",graduate,men,128800.0,6595.0,109700.0
+"Physical scientists, all other",graduate,women,94610.0,5545.0,90300.0
+Physical therapist assistants and aides,less_bachelor,men,15100.0,2570.0,51880.0
+Physical therapist assistants and aides,less_bachelor,women,25110.0,2275.0,53690.0
+Physical therapist assistants and aides,bachelor,men,7810.0,1885.0,54460.0
+Physical therapist assistants and aides,bachelor,women,14220.0,2125.0,50800.0
+Physical therapist assistants and aides,bachelor_plus,men,9110.0,2130.0,59620.0
+Physical therapist assistants and aides,bachelor_plus,women,15910.0,2280.0,51270.0
+Physical therapists,bachelor,men,19540.0,2255.0,100200.0
+Physical therapists,bachelor,women,24610.0,2585.0,82040.0
+Physical therapists,bachelor_plus,men,79270.0,4730.0,94810.0
+Physical therapists,bachelor_plus,women,108600.0,5450.0,83930.0
+Physical therapists,graduate,men,59740.0,4375.0,93150.0
+Physical therapists,graduate,women,84000.0,4870.0,84300.0
+Physician assistants,bachelor,men,11550.0,1985.0,135900.0
+Physician assistants,bachelor,women,12990.0,2415.0,107800.0
+Physician assistants,bachelor_plus,men,41940.0,2905.0,137100.0
+Physician assistants,bachelor_plus,women,73920.0,5380.0,117500.0
+Physician assistants,graduate,men,30390.0,2950.0,137600.0
+Physician assistants,graduate,women,60930.0,4765.0,118900.0
+Pipelayers,less_bachelor,men,33370.0,2960.0,50840.0
+Plasterers and stucco masons,less_bachelor,men,,,47560.0
+"Plumbers, pipefitters, and steamfitters",less_bachelor,men,408000.0,14120.0,60350.0
+"Plumbers, pipefitters, and steamfitters",bachelor,men,21530.0,2640.0,64050.0
+"Plumbers, pipefitters, and steamfitters",bachelor_plus,men,26020.0,2920.0,63400.0
+Podiatrists,bachelor_plus,men,7125.0,1220.0,161000.0
+Podiatrists,graduate,men,7125.0,1220.0,161000.0
+Police officers,less_bachelor,men,366600.0,11780.0,74660.0
+Police officers,less_bachelor,women,50840.0,5155.0,56870.0
+Police officers,bachelor,men,209600.0,9510.0,85730.0
+Police officers,bachelor,women,36950.0,4000.0,71200.0
+Police officers,bachelor_plus,men,254000.0,11060.0,87650.0
+Police officers,bachelor_plus,women,46910.0,4485.0,74960.0
+Police officers,graduate,men,44440.0,4065.0,100700.0
+Police officers,graduate,women,9960.0,1990.0,88870.0
+Postal service clerks,less_bachelor,men,35420.0,3840.0,62340.0
+Postal service clerks,less_bachelor,women,44030.0,3830.0,52040.0
+Postal service clerks,bachelor_plus,women,7970.0,1595.0,52730.0
+Postal service mail carriers,less_bachelor,men,142200.0,6040.0,65720.0
+Postal service mail carriers,less_bachelor,women,93300.0,4970.0,57100.0
+Postal service mail carriers,bachelor,men,27610.0,3675.0,64010.0
+Postal service mail carriers,bachelor,women,11010.0,2595.0,53990.0
+Postal service mail carriers,bachelor_plus,men,31500.0,3845.0,63620.0
+Postal service mail carriers,bachelor_plus,women,12560.0,2730.0,56380.0
+"Postal service mail sorters, processors, and processing machine operators",less_bachelor,men,20960.0,2840.0,57010.0
+"Postal service mail sorters, processors, and processing machine operators",less_bachelor,women,17660.0,2735.0,50510.0
+Postmasters and mail superintendents,less_bachelor,men,8525.0,1625.0,85250.0
+Postmasters and mail superintendents,less_bachelor,women,8655.0,1590.0,76870.0
+Postsecondary teachers,less_bachelor,men,24590.0,2885.0,62580.0
+Postsecondary teachers,less_bachelor,women,15720.0,2120.0,47530.0
+Postsecondary teachers,bachelor,men,55430.0,4200.0,62650.0
+Postsecondary teachers,bachelor,women,62460.0,4315.0,53570.0
+Postsecondary teachers,bachelor_plus,men,388200.0,11680.0,87800.0
+Postsecondary teachers,bachelor_plus,women,385000.0,10280.0,76800.0
+Postsecondary teachers,graduate,men,332800.0,11000.0,92020.0
+Postsecondary teachers,graduate,women,322500.0,9840.0,80790.0
+"Power plant operators, distributors, and dispatchers",less_bachelor,men,31580.0,3305.0,106800.0
+"Power plant operators, distributors, and dispatchers",bachelor,men,8265.0,1745.0,125900.0
+"Power plant operators, distributors, and dispatchers",bachelor_plus,men,9150.0,1740.0,126700.0
+Precision instrument and equipment repairers,less_bachelor,men,34440.0,3275.0,61450.0
+Precision instrument and equipment repairers,bachelor,men,7170.0,1365.0,72060.0
+Precision instrument and equipment repairers,bachelor_plus,men,8985.0,1580.0,73180.0
+Preschool and kindergarten teachers,less_bachelor,women,190800.0,9035.0,27910.0
+Preschool and kindergarten teachers,bachelor,women,142600.0,6845.0,42490.0
+Preschool and kindergarten teachers,bachelor_plus,women,233400.0,7940.0,47150.0
+Preschool and kindergarten teachers,graduate,women,90830.0,5030.0,56080.0
+"Pressers, textile, garment, and related materials",less_bachelor,men,8785.0,1680.0,44960.0
+Printing press operators,less_bachelor,men,66940.0,4360.0,47010.0
+Printing press operators,less_bachelor,women,14960.0,2045.0,33010.0
+Printing press operators,bachelor_plus,men,7905.0,1690.0,50350.0
+Private detectives and investigators,less_bachelor,men,18210.0,2905.0,56190.0
+Private detectives and investigators,less_bachelor,women,21240.0,2615.0,50320.0
+Private detectives and investigators,bachelor,men,20320.0,2810.0,82950.0
+Private detectives and investigators,bachelor,women,15010.0,2050.0,63710.0
+Private detectives and investigators,bachelor_plus,men,28390.0,3415.0,87050.0
+Private detectives and investigators,bachelor_plus,women,23010.0,2510.0,66120.0
+Private detectives and investigators,graduate,men,8070.0,1565.0,102100.0
+Probation officers and correctional treatment specialists,bachelor,men,20150.0,2455.0,63860.0
+Probation officers and correctional treatment specialists,bachelor,women,24700.0,3055.0,59280.0
+Probation officers and correctional treatment specialists,bachelor_plus,men,25300.0,2850.0,66750.0
+Probation officers and correctional treatment specialists,bachelor_plus,women,33310.0,3310.0,60150.0
+Probation officers and correctional treatment specialists,graduate,women,8610.0,1500.0,64130.0
+Procurement clerks,less_bachelor,men,8355.0,1640.0,56310.0
+Procurement clerks,less_bachelor,women,10310.0,1835.0,50830.0
+Producers and directors,less_bachelor,men,23030.0,2435.0,67890.0
+Producers and directors,less_bachelor,women,8450.0,1585.0,59680.0
+Producers and directors,bachelor,men,56900.0,3715.0,90430.0
+Producers and directors,bachelor,women,34730.0,3315.0,87660.0
+Producers and directors,bachelor_plus,men,70440.0,4260.0,92730.0
+Producers and directors,bachelor_plus,women,49720.0,4300.0,84560.0
+Producers and directors,graduate,men,13550.0,2030.0,106000.0
+Producers and directors,graduate,women,14990.0,2550.0,81590.0
+"Production, planning, and expediting clerks",less_bachelor,men,66000.0,4710.0,66190.0
+"Production, planning, and expediting clerks",less_bachelor,women,67440.0,5810.0,46180.0
+"Production, planning, and expediting clerks",bachelor,men,32180.0,3080.0,71670.0
+"Production, planning, and expediting clerks",bachelor,women,32030.0,3025.0,65050.0
+"Production, planning, and expediting clerks",bachelor_plus,men,43110.0,3815.0,75570.0
+"Production, planning, and expediting clerks",bachelor_plus,women,40810.0,3430.0,66670.0
+"Production, planning, and expediting clerks",graduate,men,10930.0,2150.0,98900.0
+"Production, planning, and expediting clerks",graduate,women,8780.0,1680.0,82570.0
+Project management specialists,less_bachelor,men,133700.0,7160.0,86950.0
+Project management specialists,less_bachelor,women,91610.0,5485.0,73410.0
+Project management specialists,bachelor,men,220500.0,8875.0,104100.0
+Project management specialists,bachelor,women,178800.0,7480.0,90600.0
+Project management specialists,bachelor_plus,men,325900.0,10480.0,107500.0
+Project management specialists,bachelor_plus,women,287700.0,8950.0,95200.0
+Project management specialists,graduate,men,105400.0,5435.0,119000.0
+Project management specialists,graduate,women,109000.0,5115.0,101700.0
+Property appraisers and assessors,less_bachelor,men,13760.0,2270.0,65500.0
+Property appraisers and assessors,less_bachelor,women,12650.0,2105.0,58100.0
+Property appraisers and assessors,bachelor,men,21010.0,2190.0,92820.0
+Property appraisers and assessors,bachelor,women,6600.0,1190.0,74510.0
+Property appraisers and assessors,bachelor_plus,men,26360.0,2350.0,94240.0
+Property appraisers and assessors,bachelor_plus,women,9860.0,1730.0,75260.0
+"Property, real estate, and community association managers",less_bachelor,men,100500.0,5865.0,60560.0
+"Property, real estate, and community association managers",less_bachelor,women,142600.0,6910.0,52300.0
+"Property, real estate, and community association managers",bachelor,men,67380.0,4365.0,92990.0
+"Property, real estate, and community association managers",bachelor,women,63090.0,4865.0,70550.0
+"Property, real estate, and community association managers",bachelor_plus,men,90110.0,4910.0,98200.0
+"Property, real estate, and community association managers",bachelor_plus,women,82050.0,5770.0,70580.0
+"Property, real estate, and community association managers",graduate,men,22740.0,2445.0,106100.0
+"Property, real estate, and community association managers",graduate,women,18960.0,3015.0,70650.0
+Psychiatric technicians,less_bachelor,men,9505.0,1995.0,44760.0
+Psychiatric technicians,less_bachelor,women,23620.0,3425.0,38240.0
+Psychiatric technicians,bachelor,women,10170.0,1680.0,37390.0
+Psychiatric technicians,bachelor_plus,women,13210.0,1935.0,40150.0
+Public relations and fundraising managers,bachelor,men,17840.0,2365.0,94610.0
+Public relations and fundraising managers,bachelor,women,37010.0,3540.0,79890.0
+Public relations and fundraising managers,bachelor_plus,men,27960.0,3095.0,98980.0
+Public relations and fundraising managers,bachelor_plus,women,56650.0,4200.0,83790.0
+Public relations and fundraising managers,graduate,men,10120.0,1845.0,102300.0
+Public relations and fundraising managers,graduate,women,19640.0,2370.0,93920.0
+Public relations specialists,less_bachelor,women,10060.0,1910.0,49480.0
+Public relations specialists,bachelor,men,27470.0,2955.0,94850.0
+Public relations specialists,bachelor,women,41040.0,3800.0,85950.0
+Public relations specialists,bachelor_plus,men,37120.0,3115.0,96790.0
+Public relations specialists,bachelor_plus,women,65150.0,4695.0,86990.0
+Public relations specialists,graduate,men,9655.0,1675.0,103000.0
+Public relations specialists,graduate,women,24110.0,3090.0,92790.0
+Public safety telecommunicators,less_bachelor,men,19830.0,2525.0,61060.0
+Public safety telecommunicators,less_bachelor,women,41210.0,4010.0,47360.0
+Public safety telecommunicators,bachelor,women,9010.0,1705.0,57540.0
+Public safety telecommunicators,bachelor_plus,women,10290.0,1825.0,58640.0
+Pumping station operators,less_bachelor,men,15410.0,2020.0,70050.0
+"Purchasing agents, except wholesale, retail, and farm products",less_bachelor,men,52830.0,4635.0,59570.0
+"Purchasing agents, except wholesale, retail, and farm products",less_bachelor,women,61840.0,4005.0,53710.0
+"Purchasing agents, except wholesale, retail, and farm products",bachelor,men,43790.0,3795.0,75320.0
+"Purchasing agents, except wholesale, retail, and farm products",bachelor,women,45870.0,4540.0,72150.0
+"Purchasing agents, except wholesale, retail, and farm products",bachelor_plus,men,57810.0,4680.0,77500.0
+"Purchasing agents, except wholesale, retail, and farm products",bachelor_plus,women,63030.0,4780.0,74100.0
+"Purchasing agents, except wholesale, retail, and farm products",graduate,men,14020.0,2245.0,91850.0
+"Purchasing agents, except wholesale, retail, and farm products",graduate,women,17160.0,2125.0,80860.0
+Purchasing managers,less_bachelor,men,30990.0,3395.0,77010.0
+Purchasing managers,less_bachelor,women,42170.0,3640.0,65590.0
+Purchasing managers,bachelor,men,48600.0,4210.0,96870.0
+Purchasing managers,bachelor,women,44770.0,4105.0,87070.0
+Purchasing managers,bachelor_plus,men,78420.0,5070.0,103700.0
+Purchasing managers,bachelor_plus,women,68760.0,4675.0,91580.0
+Purchasing managers,graduate,men,29830.0,3445.0,121200.0
+Purchasing managers,graduate,women,23990.0,2420.0,96410.0
+Radio and telecommunications equipment installers and repairers,less_bachelor,men,98680.0,6885.0,62750.0
+Radio and telecommunications equipment installers and repairers,bachelor,men,13910.0,2270.0,67130.0
+Radio and telecommunications equipment installers and repairers,bachelor_plus,men,16790.0,2205.0,67960.0
+Radiologic technologists and technicians,less_bachelor,men,35340.0,3275.0,68890.0
+Radiologic technologists and technicians,less_bachelor,women,78020.0,4790.0,61840.0
+Radiologic technologists and technicians,bachelor,men,18060.0,2715.0,81230.0
+Radiologic technologists and technicians,bachelor,women,25300.0,2725.0,69140.0
+Radiologic technologists and technicians,bachelor_plus,men,22650.0,3095.0,82400.0
+Radiologic technologists and technicians,bachelor_plus,women,29770.0,2690.0,68290.0
+Radiologists,bachelor_plus,men,13270.0,1860.0,250900.0
+Radiologists,graduate,men,13270.0,1860.0,250900.0
+Railroad conductors and yardmasters,less_bachelor,men,26930.0,2870.0,81700.0
+Real estate brokers and sales agents,less_bachelor,men,109800.0,6030.0,76820.0
+Real estate brokers and sales agents,less_bachelor,women,148600.0,7075.0,60300.0
+Real estate brokers and sales agents,bachelor,men,130700.0,6630.0,101000.0
+Real estate brokers and sales agents,bachelor,women,109800.0,5850.0,84210.0
+Real estate brokers and sales agents,bachelor_plus,men,163800.0,7890.0,102600.0
+Real estate brokers and sales agents,bachelor_plus,women,139900.0,6755.0,83980.0
+Real estate brokers and sales agents,graduate,men,33160.0,3295.0,121900.0
+Real estate brokers and sales agents,graduate,women,30100.0,3245.0,82770.0
+Receptionists and information clerks,less_bachelor,men,44610.0,3435.0,40170.0
+Receptionists and information clerks,less_bachelor,women,444300.0,12850.0,34990.0
+Receptionists and information clerks,bachelor,men,15490.0,2460.0,50810.0
+Receptionists and information clerks,bachelor,women,72560.0,5415.0,39170.0
+Receptionists and information clerks,bachelor_plus,men,18890.0,2625.0,51990.0
+Receptionists and information clerks,bachelor_plus,women,87870.0,5965.0,39470.0
+Receptionists and information clerks,graduate,women,15310.0,2485.0,41030.0
+Recreation workers,less_bachelor,men,10480.0,1970.0,40750.0
+Recreation workers,less_bachelor,women,27350.0,2690.0,35620.0
+Recreation workers,bachelor,women,12190.0,2470.0,40710.0
+Recreation workers,bachelor_plus,men,10380.0,1785.0,55730.0
+Recreation workers,bachelor_plus,women,16290.0,2815.0,41530.0
+Refuse and recyclable material collectors,less_bachelor,men,52100.0,4200.0,42330.0
+Registered nurses,less_bachelor,men,92750.0,6180.0,80230.0
+Registered nurses,less_bachelor,women,651100.0,14330.0,69360.0
+Registered nurses,bachelor,men,188900.0,9295.0,86760.0
+Registered nurses,bachelor,women,1113000.0,16800.0,81100.0
+Registered nurses,bachelor_plus,men,242500.0,9500.0,89480.0
+Registered nurses,bachelor_plus,women,1400000.0,19140.0,82820.0
+Registered nurses,graduate,men,53510.0,4300.0,100200.0
+Registered nurses,graduate,women,286800.0,9925.0,92310.0
+Rehabilitation counselors,bachelor_plus,women,7955.0,1280.0,68410.0
+"Religious workers, all other",less_bachelor,women,8970.0,1810.0,33700.0
+"Religious workers, all other",bachelor,women,8870.0,1450.0,41290.0
+"Religious workers, all other",bachelor_plus,men,10530.0,1905.0,58350.0
+"Religious workers, all other",bachelor_plus,women,12190.0,1775.0,41970.0
+Reservation and transportation ticket agents and travel clerks,less_bachelor,men,28890.0,3145.0,48650.0
+Reservation and transportation ticket agents and travel clerks,less_bachelor,women,25800.0,3070.0,40710.0
+Reservation and transportation ticket agents and travel clerks,bachelor,men,9075.0,1585.0,65890.0
+Reservation and transportation ticket agents and travel clerks,bachelor,women,10620.0,2015.0,51920.0
+Reservation and transportation ticket agents and travel clerks,bachelor_plus,men,10690.0,1960.0,67170.0
+Reservation and transportation ticket agents and travel clerks,bachelor_plus,women,11960.0,1980.0,52890.0
+Residential advisors,less_bachelor,women,8315.0,1660.0,35510.0
+Respiratory therapists,less_bachelor,men,20010.0,2355.0,75430.0
+Respiratory therapists,less_bachelor,women,33610.0,2980.0,69200.0
+Respiratory therapists,bachelor,men,10920.0,2155.0,95460.0
+Respiratory therapists,bachelor,women,18770.0,2450.0,74560.0
+Respiratory therapists,bachelor_plus,men,13690.0,2385.0,93610.0
+Respiratory therapists,bachelor_plus,women,23210.0,2960.0,74380.0
+Retail salespersons,less_bachelor,men,584000.0,14200.0,48200.0
+Retail salespersons,less_bachelor,women,342300.0,11730.0,35340.0
+Retail salespersons,bachelor,men,188000.0,8305.0,72260.0
+Retail salespersons,bachelor,women,100300.0,6195.0,53310.0
+Retail salespersons,bachelor_plus,men,221500.0,9045.0,73270.0
+Retail salespersons,bachelor_plus,women,118500.0,6785.0,53190.0
+Retail salespersons,graduate,men,33520.0,3230.0,81520.0
+Retail salespersons,graduate,women,18270.0,2550.0,52380.0
+Roofers,less_bachelor,men,104500.0,6025.0,44970.0
+Sailors and marine oilers,less_bachelor,men,7955.0,1580.0,64170.0
+"Sales and related workers, all other",less_bachelor,men,63020.0,4735.0,50060.0
+"Sales and related workers, all other",less_bachelor,women,65630.0,5110.0,36010.0
+"Sales and related workers, all other",bachelor,men,52340.0,4225.0,93250.0
+"Sales and related workers, all other",bachelor,women,34760.0,2885.0,72400.0
+"Sales and related workers, all other",bachelor_plus,men,64810.0,4540.0,100200.0
+"Sales and related workers, all other",bachelor_plus,women,44610.0,3100.0,77780.0
+"Sales and related workers, all other",graduate,men,12480.0,1780.0,112200.0
+"Sales and related workers, all other",graduate,women,9855.0,1580.0,99370.0
+Sales engineers,less_bachelor,men,10450.0,2015.0,125000.0
+Sales engineers,bachelor,men,22050.0,2265.0,125400.0
+Sales engineers,bachelor_plus,men,32060.0,2955.0,134700.0
+Sales engineers,graduate,men,10020.0,1850.0,159400.0
+Sales managers,less_bachelor,men,132000.0,6130.0,96610.0
+Sales managers,less_bachelor,women,64730.0,4425.0,71600.0
+Sales managers,bachelor,men,170300.0,8410.0,134000.0
+Sales managers,bachelor,women,72120.0,5025.0,102200.0
+Sales managers,bachelor_plus,men,220900.0,9195.0,141700.0
+Sales managers,bachelor_plus,women,92790.0,5525.0,106300.0
+Sales managers,graduate,men,50620.0,3675.0,154100.0
+Sales managers,graduate,women,20680.0,2260.0,129100.0
+"Sales representatives of services, except advertising, insurance, financial services, and travel",less_bachelor,men,166300.0,9015.0,73100.0
+"Sales representatives of services, except advertising, insurance, financial services, and travel",less_bachelor,women,63720.0,4915.0,52960.0
+"Sales representatives of services, except advertising, insurance, financial services, and travel",bachelor,men,175700.0,7885.0,110500.0
+"Sales representatives of services, except advertising, insurance, financial services, and travel",bachelor,women,66860.0,4230.0,94800.0
+"Sales representatives of services, except advertising, insurance, financial services, and travel",bachelor_plus,men,214500.0,8725.0,120400.0
+"Sales representatives of services, except advertising, insurance, financial services, and travel",bachelor_plus,women,87040.0,5445.0,100200.0
+"Sales representatives of services, except advertising, insurance, financial services, and travel",graduate,men,38880.0,3190.0,160200.0
+"Sales representatives of services, except advertising, insurance, financial services, and travel",graduate,women,20190.0,2755.0,107000.0
+"Sales representatives, wholesale and manufacturing",less_bachelor,men,348800.0,11560.0,67460.0
+"Sales representatives, wholesale and manufacturing",less_bachelor,women,114600.0,6915.0,53350.0
+"Sales representatives, wholesale and manufacturing",bachelor,men,288300.0,10420.0,106300.0
+"Sales representatives, wholesale and manufacturing",bachelor,women,115500.0,5425.0,96130.0
+"Sales representatives, wholesale and manufacturing",bachelor_plus,men,345400.0,10820.0,109400.0
+"Sales representatives, wholesale and manufacturing",bachelor_plus,women,139500.0,6395.0,98530.0
+"Sales representatives, wholesale and manufacturing",graduate,men,57180.0,4150.0,131600.0
+"Sales representatives, wholesale and manufacturing",graduate,women,24040.0,2530.0,111100.0
+"Sawing machine setters, operators, and tenders, wood",less_bachelor,men,12550.0,1660.0,41280.0
+School psychologists,bachelor_plus,women,34590.0,3065.0,80410.0
+School psychologists,graduate,women,31470.0,2985.0,80630.0
+Secondary school teachers,less_bachelor,men,10080.0,1565.0,53370.0
+Secondary school teachers,less_bachelor,women,14210.0,2330.0,39400.0
+Secondary school teachers,bachelor,men,157000.0,7195.0,59270.0
+Secondary school teachers,bachelor,women,191800.0,8495.0,53470.0
+Secondary school teachers,bachelor_plus,men,389200.0,12320.0,67500.0
+Secondary school teachers,bachelor_plus,women,500000.0,12190.0,62380.0
+Secondary school teachers,graduate,men,232300.0,9735.0,74520.0
+Secondary school teachers,graduate,women,308300.0,8395.0,69630.0
+"Secretaries and administrative assistants, except legal, medical, and executive",less_bachelor,men,47930.0,4065.0,47570.0
+"Secretaries and administrative assistants, except legal, medical, and executive",less_bachelor,women,908200.0,16850.0,42390.0
+"Secretaries and administrative assistants, except legal, medical, and executive",bachelor,men,31030.0,3045.0,54430.0
+"Secretaries and administrative assistants, except legal, medical, and executive",bachelor,women,258900.0,8455.0,46560.0
+"Secretaries and administrative assistants, except legal, medical, and executive",bachelor_plus,men,40510.0,3230.0,56300.0
+"Secretaries and administrative assistants, except legal, medical, and executive",bachelor_plus,women,320000.0,8615.0,47340.0
+"Secretaries and administrative assistants, except legal, medical, and executive",graduate,men,9485.0,1755.0,63650.0
+"Secretaries and administrative assistants, except legal, medical, and executive",graduate,women,61180.0,4385.0,50890.0
+"Securities, commodities, and financial services sales agents",less_bachelor,men,25310.0,4075.0,71060.0
+"Securities, commodities, and financial services sales agents",less_bachelor,women,19970.0,2375.0,59480.0
+"Securities, commodities, and financial services sales agents",bachelor,men,80850.0,5650.0,166200.0
+"Securities, commodities, and financial services sales agents",bachelor,women,20900.0,2850.0,101300.0
+"Securities, commodities, and financial services sales agents",bachelor_plus,men,112300.0,6750.0,192600.0
+"Securities, commodities, and financial services sales agents",bachelor_plus,women,29470.0,2960.0,107000.0
+"Securities, commodities, and financial services sales agents",graduate,men,31500.0,3400.0,239100.0
+"Securities, commodities, and financial services sales agents",graduate,women,8575.0,1790.0,140400.0
+Security and fire alarm systems installers,less_bachelor,men,45070.0,4310.0,56980.0
+Security guards and gambling surveillance officers,less_bachelor,men,355100.0,11910.0,40270.0
+Security guards and gambling surveillance officers,less_bachelor,women,104300.0,5660.0,36160.0
+Security guards and gambling surveillance officers,bachelor,men,56460.0,3600.0,47960.0
+Security guards and gambling surveillance officers,bachelor,women,14610.0,2450.0,43900.0
+Security guards and gambling surveillance officers,bachelor_plus,men,72550.0,4845.0,50160.0
+Security guards and gambling surveillance officers,bachelor_plus,women,20360.0,3030.0,46400.0
+Security guards and gambling surveillance officers,graduate,men,16100.0,2725.0,64490.0
+Sewing machine operators,less_bachelor,men,22000.0,2935.0,32750.0
+Sewing machine operators,less_bachelor,women,46300.0,4335.0,31990.0
+Sheet metal workers,less_bachelor,men,88170.0,5870.0,54080.0
+Ship and boat captains and operators,less_bachelor,men,14300.0,2915.0,81560.0
+"Shipping, receiving, and inventory clerks",less_bachelor,men,261300.0,9790.0,42150.0
+"Shipping, receiving, and inventory clerks",less_bachelor,women,131600.0,7755.0,36340.0
+"Shipping, receiving, and inventory clerks",bachelor,men,27980.0,3320.0,44620.0
+"Shipping, receiving, and inventory clerks",bachelor,women,14580.0,2130.0,40730.0
+"Shipping, receiving, and inventory clerks",bachelor_plus,men,31610.0,3565.0,44610.0
+"Shipping, receiving, and inventory clerks",bachelor_plus,women,17870.0,2390.0,41450.0
+Shuttle drivers and chauffeurs,less_bachelor,men,25580.0,3435.0,41520.0
+Skincare specialists,less_bachelor,women,35030.0,4020.0,39620.0
+Small engine mechanics,less_bachelor,men,27430.0,3475.0,46510.0
+Social and community service managers,less_bachelor,men,30520.0,3410.0,55590.0
+Social and community service managers,less_bachelor,women,75470.0,5250.0,49930.0
+Social and community service managers,bachelor,men,48870.0,4060.0,71170.0
+Social and community service managers,bachelor,women,120500.0,5720.0,61740.0
+Social and community service managers,bachelor_plus,men,88210.0,5675.0,81190.0
+Social and community service managers,bachelor_plus,women,218700.0,7825.0,68230.0
+Social and community service managers,graduate,men,39340.0,3720.0,93660.0
+Social and community service managers,graduate,women,98200.0,6035.0,77030.0
+Social and human service assistants,less_bachelor,men,18180.0,2580.0,41740.0
+Social and human service assistants,less_bachelor,women,64020.0,5205.0,39550.0
+Social and human service assistants,bachelor,men,13670.0,2280.0,52280.0
+Social and human service assistants,bachelor,women,43290.0,3810.0,48570.0
+Social and human service assistants,bachelor_plus,men,20050.0,2995.0,57710.0
+Social and human service assistants,bachelor_plus,women,62210.0,4505.0,50850.0
+Social and human service assistants,graduate,women,18920.0,2470.0,56360.0
+"Social workers, all other",less_bachelor,men,11760.0,1930.0,51500.0
+"Social workers, all other",less_bachelor,women,53650.0,4285.0,44510.0
+"Social workers, all other",bachelor,men,31940.0,3165.0,54460.0
+"Social workers, all other",bachelor,women,147400.0,6665.0,52400.0
+"Social workers, all other",bachelor_plus,men,58900.0,4330.0,60990.0
+"Social workers, all other",bachelor_plus,women,322300.0,9880.0,60320.0
+"Social workers, all other",graduate,men,26960.0,2890.0,72120.0
+"Social workers, all other",graduate,women,175000.0,7350.0,66070.0
+Software developers,less_bachelor,men,190100.0,9630.0,113800.0
+Software developers,less_bachelor,women,32000.0,2985.0,95480.0
+Software developers,bachelor,men,759800.0,15230.0,127600.0
+Software developers,bachelor,women,152400.0,7310.0,115100.0
+Software developers,bachelor_plus,men,1228000.0,21500.0,134400.0
+Software developers,bachelor_plus,women,275300.0,9845.0,121900.0
+Software developers,graduate,men,467800.0,12450.0,149700.0
+Software developers,graduate,women,122900.0,6190.0,129300.0
+Software quality assurance analysts and testers,less_bachelor,men,9320.0,1915.0,74890.0
+Software quality assurance analysts and testers,less_bachelor,women,9185.0,1455.0,71680.0
+Software quality assurance analysts and testers,bachelor,men,19480.0,2730.0,92620.0
+Software quality assurance analysts and testers,bachelor,women,15960.0,2465.0,81600.0
+Software quality assurance analysts and testers,bachelor_plus,men,27870.0,3150.0,94000.0
+Software quality assurance analysts and testers,bachelor_plus,women,25410.0,2955.0,88680.0
+Software quality assurance analysts and testers,graduate,men,8390.0,1445.0,95300.0
+Software quality assurance analysts and testers,graduate,women,9455.0,1700.0,100200.0
+Solar photovoltaic installers,less_bachelor,men,,,50900.0
+Special education teachers,less_bachelor,women,18320.0,2550.0,30740.0
+Special education teachers,bachelor,men,15400.0,2430.0,55390.0
+Special education teachers,bachelor,women,78770.0,4430.0,52110.0
+Special education teachers,bachelor_plus,men,37410.0,3800.0,64790.0
+Special education teachers,bachelor_plus,women,220300.0,7760.0,61020.0
+Special education teachers,graduate,men,22010.0,2760.0,72230.0
+Special education teachers,graduate,women,141500.0,7075.0,65570.0
+Speech-language pathologists,bachelor,women,13380.0,2215.0,63930.0
+Speech-language pathologists,bachelor_plus,women,114300.0,6240.0,73080.0
+Speech-language pathologists,graduate,women,100900.0,5960.0,73810.0
+Stationary engineers and boiler operators,less_bachelor,men,64950.0,4700.0,71000.0
+Stationary engineers and boiler operators,bachelor,men,7980.0,1455.0,79200.0
+Stationary engineers and boiler operators,bachelor_plus,men,10270.0,1805.0,82620.0
+Statisticians,bachelor,men,7700.0,1675.0,86130.0
+Statisticians,bachelor_plus,men,21550.0,2485.0,98060.0
+Statisticians,bachelor_plus,women,19560.0,2100.0,98620.0
+Statisticians,graduate,men,13850.0,1990.0,107500.0
+Statisticians,graduate,women,13980.0,1760.0,102800.0
+Stockers and order fillers,less_bachelor,men,425800.0,12430.0,35730.0
+Stockers and order fillers,less_bachelor,women,240700.0,9390.0,32820.0
+Stockers and order fillers,bachelor,men,43740.0,4245.0,38350.0
+Stockers and order fillers,bachelor,women,24240.0,3050.0,40590.0
+Stockers and order fillers,bachelor_plus,men,52590.0,4465.0,40070.0
+Stockers and order fillers,bachelor_plus,women,29180.0,3295.0,41420.0
+Structural iron and steel workers,less_bachelor,men,38820.0,3630.0,63980.0
+Structural metal fabricators and fitters,less_bachelor,men,17580.0,3065.0,51410.0
+Substance abuse and behavioral disorder counselors,less_bachelor,women,11420.0,2310.0,39440.0
+Substance abuse and behavioral disorder counselors,bachelor,women,17790.0,2335.0,45360.0
+Substance abuse and behavioral disorder counselors,bachelor_plus,men,15480.0,2405.0,54970.0
+Substance abuse and behavioral disorder counselors,bachelor_plus,women,47910.0,3710.0,59790.0
+Substance abuse and behavioral disorder counselors,graduate,men,8810.0,1820.0,62450.0
+Substance abuse and behavioral disorder counselors,graduate,women,30130.0,3300.0,71120.0
+Supervisors of personal care and service workers,less_bachelor,men,14500.0,2505.0,54050.0
+Supervisors of personal care and service workers,less_bachelor,women,14910.0,2460.0,47010.0
+Supervisors of transportation and material moving workers,less_bachelor,men,158800.0,8070.0,60900.0
+Supervisors of transportation and material moving workers,less_bachelor,women,54710.0,3475.0,42350.0
+Supervisors of transportation and material moving workers,bachelor,men,30970.0,3660.0,62200.0
+Supervisors of transportation and material moving workers,bachelor,women,8480.0,1785.0,52480.0
+Supervisors of transportation and material moving workers,bachelor_plus,men,36110.0,3695.0,62510.0
+Supervisors of transportation and material moving workers,bachelor_plus,women,9710.0,1875.0,52910.0
+Surgeons,bachelor_plus,men,36080.0,2870.0,250800.0
+Surgeons,bachelor_plus,women,10670.0,1730.0,250400.0
+Surgeons,graduate,men,36080.0,2870.0,250800.0
+Surgeons,graduate,women,10670.0,1730.0,250400.0
+Surgical technologists,less_bachelor,men,14290.0,2055.0,59290.0
+Surgical technologists,less_bachelor,women,45540.0,4195.0,52120.0
+Surveying and mapping technicians,less_bachelor,men,43130.0,4150.0,59710.0
+"Surveyors, cartographers, and photogrammetrists",bachelor,men,15180.0,2070.0,75720.0
+"Surveyors, cartographers, and photogrammetrists",bachelor_plus,men,18070.0,2345.0,75890.0
+"Tailors, dressmakers, and sewers",less_bachelor,women,13790.0,2010.0,32760.0
+"Tax examiners and collectors, and revenue agents",less_bachelor,women,18550.0,2200.0,52350.0
+"Tax examiners and collectors, and revenue agents",bachelor,women,11490.0,2100.0,62350.0
+"Tax examiners and collectors, and revenue agents",bachelor_plus,men,11140.0,1660.0,90670.0
+"Tax examiners and collectors, and revenue agents",bachelor_plus,women,16260.0,2665.0,64610.0
+Tax preparers,less_bachelor,women,14000.0,2420.0,43560.0
+Tax preparers,bachelor,men,9720.0,1740.0,86560.0
+Tax preparers,bachelor,women,9475.0,1810.0,59190.0
+Tax preparers,bachelor_plus,men,16140.0,2050.0,96240.0
+Tax preparers,bachelor_plus,women,17780.0,2505.0,66250.0
+Taxi drivers,less_bachelor,men,141100.0,7490.0,39060.0
+Taxi drivers,less_bachelor,women,21340.0,3490.0,26190.0
+Taxi drivers,bachelor,men,29900.0,3915.0,40720.0
+Taxi drivers,bachelor_plus,men,40280.0,4675.0,41170.0
+Teaching assistants,less_bachelor,men,50200.0,4790.0,38320.0
+Teaching assistants,less_bachelor,women,327100.0,9900.0,26020.0
+Teaching assistants,bachelor,men,23850.0,2615.0,31310.0
+Teaching assistants,bachelor,women,90210.0,5265.0,28830.0
+Teaching assistants,bachelor_plus,men,41610.0,3350.0,32080.0
+Teaching assistants,bachelor_plus,women,120700.0,6445.0,30650.0
+Teaching assistants,graduate,men,17760.0,2125.0,35870.0
+Teaching assistants,graduate,women,30490.0,2975.0,37950.0
+Technical writers,bachelor,men,9575.0,1655.0,89680.0
+Technical writers,bachelor,women,13440.0,2035.0,78740.0
+Technical writers,bachelor_plus,men,15080.0,2220.0,91130.0
+Technical writers,bachelor_plus,women,21300.0,2410.0,82800.0
+Technical writers,graduate,women,7860.0,1320.0,91620.0
+Telecommunications line installers and repairers,less_bachelor,men,75940.0,6435.0,64700.0
+Telecommunications line installers and repairers,bachelor,men,7755.0,1525.0,67470.0
+Telecommunications line installers and repairers,bachelor_plus,men,8965.0,1600.0,68480.0
+"Television, video, and film camera operators and editors",less_bachelor,men,18430.0,1990.0,58920.0
+"Television, video, and film camera operators and editors",bachelor,men,24760.0,2625.0,67730.0
+"Television, video, and film camera operators and editors",bachelor_plus,men,28450.0,2945.0,68550.0
+"Television, video, and film camera operators and editors",bachelor_plus,women,8020.0,1530.0,76950.0
+Tellers,less_bachelor,men,10530.0,2235.0,37530.0
+Tellers,less_bachelor,women,91110.0,5285.0,34220.0
+Tellers,bachelor,women,16080.0,2780.0,35680.0
+Tellers,bachelor_plus,women,18210.0,2870.0,35710.0
+"Therapists, all other",less_bachelor,women,13770.0,2390.0,48980.0
+"Therapists, all other",bachelor,women,21600.0,2915.0,55830.0
+"Therapists, all other",bachelor_plus,men,22550.0,3255.0,65740.0
+"Therapists, all other",bachelor_plus,women,99910.0,6445.0,61650.0
+"Therapists, all other",graduate,men,15550.0,2570.0,65940.0
+"Therapists, all other",graduate,women,78310.0,5055.0,62660.0
+Tire builders,less_bachelor,men,9195.0,2025.0,55870.0
+"Title examiners, abstractors, and searchers",less_bachelor,women,41780.0,3350.0,51270.0
+"Title examiners, abstractors, and searchers",bachelor,men,8175.0,1530.0,86860.0
+"Title examiners, abstractors, and searchers",bachelor,women,13720.0,2095.0,55840.0
+"Title examiners, abstractors, and searchers",bachelor_plus,men,11420.0,1810.0,100700.0
+"Title examiners, abstractors, and searchers",bachelor_plus,women,16210.0,2345.0,58900.0
+Tool and die makers,less_bachelor,men,36250.0,3380.0,66480.0
+Training and development managers,less_bachelor,men,11300.0,1750.0,77490.0
+Training and development managers,less_bachelor,women,12900.0,2080.0,64000.0
+Training and development managers,bachelor,men,8585.0,1790.0,96270.0
+Training and development managers,bachelor,women,14430.0,2315.0,90530.0
+Training and development managers,bachelor_plus,men,16810.0,2445.0,100600.0
+Training and development managers,bachelor_plus,women,26680.0,3025.0,89000.0
+Training and development managers,graduate,men,8220.0,1590.0,105300.0
+Training and development managers,graduate,women,12260.0,2030.0,86420.0
+Training and development specialists,less_bachelor,men,36430.0,3595.0,70050.0
+Training and development specialists,less_bachelor,women,32950.0,3625.0,54610.0
+Training and development specialists,bachelor,men,23040.0,3135.0,82100.0
+Training and development specialists,bachelor,women,30090.0,2795.0,72250.0
+Training and development specialists,bachelor_plus,men,34250.0,3575.0,81860.0
+Training and development specialists,bachelor_plus,women,48490.0,3710.0,75250.0
+Training and development specialists,graduate,men,11210.0,1840.0,81230.0
+Training and development specialists,graduate,women,18400.0,2365.0,78120.0
+Transportation inspectors,less_bachelor,men,23910.0,2970.0,66190.0
+Transportation security screeners,less_bachelor,men,10770.0,2115.0,51640.0
+Transportation service attendants,less_bachelor,men,33120.0,3485.0,38030.0
+"Transportation, storage, and distribution managers",less_bachelor,men,150500.0,7395.0,60480.0
+"Transportation, storage, and distribution managers",less_bachelor,women,36400.0,3330.0,52060.0
+"Transportation, storage, and distribution managers",bachelor,men,52580.0,5085.0,83850.0
+"Transportation, storage, and distribution managers",bachelor,women,16440.0,2125.0,81680.0
+"Transportation, storage, and distribution managers",bachelor_plus,men,71360.0,6075.0,88230.0
+"Transportation, storage, and distribution managers",bachelor_plus,women,23540.0,2580.0,84030.0
+"Transportation, storage, and distribution managers",graduate,men,18780.0,2940.0,105100.0
+"Transportation, storage, and distribution managers",graduate,women,7105.0,1515.0,90490.0
+Travel agents,less_bachelor,women,16080.0,2440.0,46580.0
+Travel agents,bachelor,women,8040.0,1325.0,48880.0
+Travel agents,bachelor_plus,women,9885.0,1680.0,49150.0
+Tree trimmers and pruners,less_bachelor,men,54180.0,4445.0,41620.0
+Tutors,bachelor_plus,women,9730.0,1830.0,37500.0
+Underground mining machine operators,less_bachelor,men,34780.0,3210.0,75680.0
+Upholsterers,less_bachelor,men,13370.0,2500.0,39780.0
+Urban and regional planners,bachelor,men,9120.0,1825.0,84540.0
+Urban and regional planners,bachelor_plus,men,19690.0,2690.0,88530.0
+Urban and regional planners,bachelor_plus,women,15400.0,2130.0,75420.0
+Urban and regional planners,graduate,men,10570.0,1915.0,91000.0
+Urban and regional planners,graduate,women,8795.0,1530.0,78780.0
+Veterinarians,bachelor_plus,men,23980.0,2465.0,138200.0
+Veterinarians,bachelor_plus,women,47940.0,3880.0,115500.0
+Veterinarians,graduate,men,23980.0,2465.0,138200.0
+Veterinarians,graduate,women,47940.0,3880.0,115500.0
+Veterinary assistants and laboratory animal caretakers,less_bachelor,women,19430.0,2585.0,32680.0
+Veterinary assistants and laboratory animal caretakers,bachelor,women,7130.0,1520.0,35960.0
+Veterinary assistants and laboratory animal caretakers,bachelor_plus,women,7910.0,1585.0,35620.0
+Veterinary technologists and technicians,less_bachelor,women,60410.0,4605.0,37500.0
+Veterinary technologists and technicians,bachelor,women,20280.0,2695.0,38820.0
+Veterinary technologists and technicians,bachelor_plus,women,22100.0,2725.0,39090.0
+Waiters and waitresses,less_bachelor,men,126100.0,7080.0,35810.0
+Waiters and waitresses,less_bachelor,women,212300.0,9050.0,28370.0
+Waiters and waitresses,bachelor,men,22260.0,3260.0,48280.0
+Waiters and waitresses,bachelor,women,28980.0,2865.0,36660.0
+Waiters and waitresses,bachelor_plus,men,27850.0,3460.0,45720.0
+Waiters and waitresses,bachelor_plus,women,35370.0,3180.0,36820.0
+Water and wastewater treatment plant and system operators,less_bachelor,men,71230.0,4825.0,58630.0
+Water and wastewater treatment plant and system operators,bachelor,men,9475.0,1865.0,67930.0
+Water and wastewater treatment plant and system operators,bachelor_plus,men,10690.0,1960.0,70090.0
+Web and digital interface designers,bachelor,men,14560.0,2040.0,89870.0
+Web and digital interface designers,bachelor,women,12920.0,1900.0,70750.0
+Web and digital interface designers,bachelor_plus,men,18970.0,2450.0,93980.0
+Web and digital interface designers,bachelor_plus,women,16840.0,2190.0,77350.0
+Web developers,less_bachelor,men,18550.0,2910.0,73120.0
+Web developers,bachelor,men,29950.0,2985.0,88930.0
+Web developers,bachelor,women,10080.0,1935.0,81500.0
+Web developers,bachelor_plus,men,37640.0,3530.0,89870.0
+Web developers,bachelor_plus,women,14930.0,2055.0,81920.0
+Web developers,graduate,men,7695.0,1770.0,97800.0
+"Weighers, measurers, checkers, and samplers, recordkeeping",less_bachelor,men,28020.0,3470.0,50950.0
+"Weighers, measurers, checkers, and samplers, recordkeeping",less_bachelor,women,20580.0,2735.0,38930.0
+"Welding, soldering, and brazing workers",less_bachelor,men,361300.0,11070.0,51010.0
+"Welding, soldering, and brazing workers",less_bachelor,women,19710.0,3075.0,42010.0
+"Welding, soldering, and brazing workers",bachelor,men,10880.0,1715.0,52170.0
+"Welding, soldering, and brazing workers",bachelor_plus,men,13400.0,1855.0,52000.0
+"Wholesale and retail buyers, except farm products",less_bachelor,men,48590.0,4030.0,46430.0
+"Wholesale and retail buyers, except farm products",less_bachelor,women,39950.0,4020.0,39310.0
+"Wholesale and retail buyers, except farm products",bachelor,men,20390.0,2470.0,67320.0
+"Wholesale and retail buyers, except farm products",bachelor,women,25580.0,3340.0,73100.0
+"Wholesale and retail buyers, except farm products",bachelor_plus,men,24500.0,2755.0,71020.0
+"Wholesale and retail buyers, except farm products",bachelor_plus,women,30060.0,3635.0,74200.0
+"Woodworking machine setters, operators, and tenders, except sawing",less_bachelor,men,9620.0,1725.0,41050.0
+Word processors and typists,less_bachelor,women,9980.0,1920.0,37120.0
+Writers and authors,less_bachelor,men,8480.0,1730.0,46460.0
+Writers and authors,less_bachelor,women,6940.0,1300.0,51480.0
+Writers and authors,bachelor,men,30860.0,3145.0,74640.0
+Writers and authors,bachelor,women,41060.0,4090.0,70630.0
+Writers and authors,bachelor_plus,men,48140.0,3900.0,75960.0
+Writers and authors,bachelor_plus,women,65110.0,5415.0,72680.0
+Writers and authors,graduate,men,17280.0,2630.0,81630.0
+Writers and authors,graduate,women,24050.0,2615.0,78330.0
